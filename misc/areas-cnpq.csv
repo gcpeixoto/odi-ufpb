@@ -1,0 +1,1282 @@
+,grande_area,area,codigo
+0,Ciências Exatas e da Terra,Ciências Exatas e da Terra,1.00.00.00-3
+1,Ciências Exatas e da Terra,Matemática,1.01.00.00-8
+2,Ciências Exatas e da Terra,Álgebra,1.01.01.00-4
+3,Ciências Exatas e da Terra,Conjuntos,1.01.01.01-2
+4,Ciências Exatas e da Terra,Lógica Matemática,1.01.01.02-0
+5,Ciências Exatas e da Terra,Teoria dos Números,1.01.01.03-9
+6,Ciências Exatas e da Terra,Grupos de Algebra Não-Comutaviva,1.01.01.04-7
+7,Ciências Exatas e da Terra,Algebra Comutativa,1.01.01.05-5
+8,Ciências Exatas e da Terra,Geometria Algebrica,1.01.01.06-3
+9,Ciências Exatas e da Terra,Análise,1.01.02.00-0
+10,Ciências Exatas e da Terra,Análise Complexa,1.01.02.01-9
+11,Ciências Exatas e da Terra,Análise Funcional,1.01.02.02-7
+12,Ciências Exatas e da Terra,Análise Funcional Não-Linear,1.01.02.03-5
+13,Ciências Exatas e da Terra,Equações Diferênciais Ordinárias,1.01.02.04-3
+14,Ciências Exatas e da Terra,Equações Diferênciais Parciais,1.01.02.05-1
+15,Ciências Exatas e da Terra,Equações Diferênciais Funcionais,1.01.02.06-0
+16,Ciências Exatas e da Terra,Geometria e Topologia,1.01.03.00-7
+17,Ciências Exatas e da Terra,Geometria Diferêncial,1.01.03.01-5
+18,Ciências Exatas e da Terra,Topologia Algébrica,1.01.03.02-3
+19,Ciências Exatas e da Terra,Topologia das Variedades,1.01.03.03-1
+20,Ciências Exatas e da Terra,Sistemas Dinâmicos,1.01.03.04-0
+21,Ciências Exatas e da Terra,Teoria das Singularidades e Teoria das Catástrofes,1.01.03.05-8
+22,Ciências Exatas e da Terra,Teoria das Folheações,1.01.03.06-6
+23,Ciências Exatas e da Terra,Matemática Aplicada,1.01.04.00-3
+24,Ciências Exatas e da Terra,Física Matemática,1.01.04.01-1
+25,Ciências Exatas e da Terra,Análise Numérica,1.01.04.02-0
+26,Ciências Exatas e da Terra,Matemática Discreta e Combinatoria,1.01.04.03-8
+27,Ciências Exatas e da Terra,Probabilidade e Estatística,1.02.00.00-2
+28,Ciências Exatas e da Terra,Probabilidade,1.02.01.00-9
+29,Ciências Exatas e da Terra,Teoria Geral e Fundamentos da Probabilidade,1.02.01.01-7
+30,Ciências Exatas e da Terra,Teoria Geral e Processos Estocásticos,1.02.01.02-5
+31,Ciências Exatas e da Terra,Teoremas de Limite,1.02.01.03-3
+32,Ciências Exatas e da Terra,Processos Markovianos,1.02.01.04-1
+33,Ciências Exatas e da Terra,Análise Estocástica,1.02.01.05-0
+34,Ciências Exatas e da Terra,Processos Estocásticos Especiais,1.02.01.06-8
+35,Ciências Exatas e da Terra,Estatística,1.02.02.00-5
+36,Ciências Exatas e da Terra,Fundamentos da Estatística,1.02.02.01-3
+37,Ciências Exatas e da Terra,Inferência Paramétrica,1.02.02.02-1
+38,Ciências Exatas e da Terra,Inferência Nao-Paramétrica,1.02.02.03-0
+39,Ciências Exatas e da Terra,Inferência em Processos Estocásticos,1.02.02.04-8
+40,Ciências Exatas e da Terra,Análise Multivariada,1.02.02.05-6
+41,Ciências Exatas e da Terra,Regressão e Correlação,1.02.02.06-4
+42,Ciências Exatas e da Terra,Planejamento de Experimentos,1.02.02.07-2
+43,Ciências Exatas e da Terra,Análise de Dados,1.02.02.08-0
+44,Ciências Exatas e da Terra,Probabilidade e Estatística Aplicadas,1.02.03.00-1
+45,Ciências Exatas e da Terra,Ciência da Computação,1.03.00.00-7
+46,Ciências Exatas e da Terra,Teoria da Computação,1.03.01.00-3
+47,Ciências Exatas e da Terra,Computabilidade e Modelos de Computação,1.03.01.01-1
+48,Ciências Exatas e da Terra,Linguagem Formais e Automatos,1.03.01.02-0
+49,Ciências Exatas e da Terra,Análise de Algoritmos e Complexidade de Computação,1.03.01.03-8
+50,Ciências Exatas e da Terra,Lógicas e Semântica de Programas,1.03.01.04-6
+51,Ciências Exatas e da Terra,Matemática da Computação,1.03.02.00-0
+52,Ciências Exatas e da Terra,Matemática Simbólica,1.03.02.01-8
+53,Ciências Exatas e da Terra,Modelos Analíticos e de Simulação,1.03.02.02-6
+54,Ciências Exatas e da Terra,Metodologia e Técnicas da Computação,1.03.03.00-6
+55,Ciências Exatas e da Terra,Linguagens de Programação,1.03.03.01-4
+56,Ciências Exatas e da Terra,Engenharia de Software,1.03.03.02-2
+57,Ciências Exatas e da Terra,Banco de Dados,1.03.03.03-0
+58,Ciências Exatas e da Terra,Sistemas de Informação,1.03.03.04-9
+59,Ciências Exatas e da Terra,Processamento Gráfico (Graphics),1.03.03.05-7
+60,Ciências Exatas e da Terra,Sistemas de Computação,1.03.04.00-2
+61,Ciências Exatas e da Terra,Hardware,1.03.04.01-0
+62,Ciências Exatas e da Terra,Arquitetura de Sistemas de Computação,1.03.04.02-9
+63,Ciências Exatas e da Terra,Software Básico,1.03.04.03-7
+64,Ciências Exatas e da Terra,Teleinformática,1.03.04.04-5
+65,Ciências Exatas e da Terra,Astronomia,1.04.00.00-1
+66,Ciências Exatas e da Terra,Astronomia de Posição e Mecânica Celeste,1.04.01.00-8
+67,Ciências Exatas e da Terra,Astronomia Fundamental,1.04.01.01-6
+68,Ciências Exatas e da Terra,Astronomia Dinâmica,1.04.01.02-4
+69,Ciências Exatas e da Terra,Astrofísica Estelar,1.04.02.00-4
+70,Ciências Exatas e da Terra,Astrofísica do Meio Interestelar,1.04.03.00-0
+71,Ciências Exatas e da Terra,Meio Interestelar,1.04.03.01-9
+72,Ciências Exatas e da Terra,Nebulosa,1.04.03.02-7
+73,Ciências Exatas e da Terra,Astrofísica Extragaláctica,1.04.04.00-7
+74,Ciências Exatas e da Terra,Galáxias,1.04.04.01-5
+75,Ciências Exatas e da Terra,Aglomerados de Galáxias,1.04.04.02-3
+76,Ciências Exatas e da Terra,Quasares,1.04.04.03-1
+77,Ciências Exatas e da Terra,Cosmologia,1.04.04.04-0
+78,Ciências Exatas e da Terra,Astrofísica do Sistema Solar,1.04.05.00-3
+79,Ciências Exatas e da Terra,Física Solar,1.04.05.01-1
+80,Ciências Exatas e da Terra,Movimento da Terra,1.04.05.02-0
+81,Ciências Exatas e da Terra,Sistema Planetário,1.04.05.03-8
+82,Ciências Exatas e da Terra,Instrumentação Astronômica,1.04.06.00-0
+83,Ciências Exatas e da Terra,Astronômia Ótica,1.04.06.01-8
+84,Ciências Exatas e da Terra,Radioastronomia,1.04.06.02-6
+85,Ciências Exatas e da Terra,Astronomia Espacial,1.04.06.03-4
+86,Ciências Exatas e da Terra,Processamento de Dados Astronômicos,1.04.06.04-2
+87,Ciências Exatas e da Terra,Física,1.05.00.00-6
+88,Ciências Exatas e da Terra,Física Geral,1.05.01.00-2
+89,Ciências Exatas e da Terra,Métodos Matemáticos da Física,1.05.01.01-0
+90,Ciências Exatas e da Terra,Física Clássica e Física Quântica; Mecânica e Campos,1.05.01.02-9
+91,Ciências Exatas e da Terra,Relatividade e Gravitação,1.05.01.03-7
+92,Ciências Exatas e da Terra,Física Estatística e Termodinâmica,1.05.01.04-5
+93,Ciências Exatas e da Terra,"Metrologia, Técnicas Gerais de Laboratório, Sistema de Instrumentação",1.05.01.05-3
+94,Ciências Exatas e da Terra,Instrumentação Específica de Uso Geral em Física,1.05.01.06-1
+95,Ciências Exatas e da Terra,Áreas Clássicas de Fenomenologia e suas Aplicações,1.05.02.00-9
+96,Ciências Exatas e da Terra,Eletricidade e Magnetismo; Campos e Partículas Carregadas,1.05.02.01-7
+97,Ciências Exatas e da Terra,Ótica,1.05.02.02-5
+98,Ciências Exatas e da Terra,Acústica,1.05.02.03-3
+99,Ciências Exatas e da Terra,Transferência de Calor; Processos Térmicos e Termodinâmicos,1.05.02.04-1
+100,Ciências Exatas e da Terra,"Mecânica, Elasticidade e Reologia",1.05.02.05-0
+101,Ciências Exatas e da Terra,Dinâmica dos Fluidos,1.05.02.06-8
+102,Ciências Exatas e da Terra,Física das Partículas Elementares e Campos,1.05.03.00-5
+103,Ciências Exatas e da Terra,Teoria Geral de Partículas e Campos,1.05.03.01-3
+104,Ciências Exatas e da Terra,Teorias Específicas e Modelos de Interação; Sistematica de Partículas; Raios Cósmicos,1.05.03.02-1
+105,Ciências Exatas e da Terra,Reações Específicas e Fenomiologia de Partículas,1.05.03.03-0
+106,Ciências Exatas e da Terra,Propriedades de Partículas Específicas e Ressonâncias,1.05.03.04-8
+107,Ciências Exatas e da Terra,Física Nuclear,1.05.04.00-1
+108,Ciências Exatas e da Terra,Estrutura Nuclear,1.05.04.01-0
+109,Ciências Exatas e da Terra,Desintegração Nuclear e Radioatividade,1.05.04.02-8
+110,Ciências Exatas e da Terra,Reações Nucleares e Espalhamento Geral,1.05.04.03-6
+111,Ciências Exatas e da Terra,Reações Nucleares e Espalhamento (Reações Específicas),1.05.04.04-4
+112,Ciências Exatas e da Terra,Propriedades de Núcleos Específicos,1.05.04.05-2
+113,Ciências Exatas e da Terra,Métodos Experimentais e Instrumentação para Partículas Elementares e Física Nuclear,1.05.04.06-0
+114,Ciências Exatas e da Terra,Física Atômica e Molécular,1.05.05.00-8
+115,Ciências Exatas e da Terra,Estrutura Eletrônica de Átomos e Moléculas; Teoria,1.05.05.01-6
+116,Ciências Exatas e da Terra,Espectros Atômicos e Integração de Fótons,1.05.05.02-4
+117,Ciências Exatas e da Terra,Espectros Moléculares e Interações de Fótons com Moléculas,1.05.05.03-2
+118,Ciências Exatas e da Terra,Processos de Colisão e Interações de Átomos e Moléculas,1.05.05.04-0
+119,Ciências Exatas e da Terra,Inf.Sobre Átomos e Moléculas Obtidos Experimentalmente;Instrumentação e Técnicas,1.05.05.05-9
+120,Ciências Exatas e da Terra,Estudos de Átomos e Moléculas Especiais,1.05.05.06-7
+121,Ciências Exatas e da Terra,"Física dos Fluidos, Física de Plasmas e Descargas Elétricas",1.05.06.00-4
+122,Ciências Exatas e da Terra,Cinética e Teoria de Transporte de Fluidos; Propriedades Físicas de Gases,1.05.06.01-2
+123,Ciências Exatas e da Terra,Física de Plasmas e Descargas Elétricas,1.05.06.02-0
+124,Ciências Exatas e da Terra,Física da Matéria Condensada,1.05.07.00-0
+125,Ciências Exatas e da Terra,Estrutura de Líquidos e Sólidos; Cristalografia,1.05.07.01-9
+126,Ciências Exatas e da Terra,Propriedades Mecânicas e Acústicas da Matéria Condensada,1.05.07.02-7
+127,Ciências Exatas e da Terra,Dinâmica da Rede e Estatística de Cristais,1.05.07.03-5
+128,Ciências Exatas e da Terra,"Equação de Estado, Equilíbrio de Fases e Transições de Fase",1.05.07.04-3
+129,Ciências Exatas e da Terra,Propriedades Térmicas da Matéria Condensada,1.05.07.05-1
+130,Ciências Exatas e da Terra,Propriedades de Transportes de Matéria Condensada (Não Eletrônicas),1.05.07.06-0
+131,Ciências Exatas e da Terra,"Campos Quânticos e Sólidos, Hélio, Líquido, Sólido",1.05.07.07-8
+132,Ciências Exatas e da Terra,Superfícies e Interfaces; Películas e Filamentos,1.05.07.08-6
+133,Ciências Exatas e da Terra,Estados Eletrônicos,1.05.07.09-4
+134,Ciências Exatas e da Terra,Transp.Eletrônicos e Prop. Elétricas de Superfícies; Interfaces e Películas,1.05.07.10-8
+135,Ciências Exatas e da Terra,Estruturas Eletrônicas e Propriedades Elétricas de Superfícies Interfaces e Películas,1.05.07.11-6
+136,Ciências Exatas e da Terra,Supercondutividade,1.05.07.12-4
+137,Ciências Exatas e da Terra,Materiais Magnéticos e Propriedades Magnéticas,1.05.07.13-2
+138,Ciências Exatas e da Terra,Ressonância Mag.e Relax.Na Mat.Condens;Efeitos Mosbauer;Corr.Ang.Pertubada,1.05.07.14-0
+139,Ciências Exatas e da Terra,Materiais Dielétricos e Propriedades Dielétricas,1.05.07.15-9
+140,Ciências Exatas e da Terra,Prop.Óticas e Espectrosc.da Mat.Condens;Outras Inter.da Mat.Com Rad.e Part.,1.05.07.16-7
+141,Ciências Exatas e da Terra,Emissão Eletrônica e Iônica por Líquidos e Sólidos; Fenômenos de Impacto,1.05.07.17-5
+142,Ciências Exatas e da Terra,Química,1.06.00.00-0
+143,Ciências Exatas e da Terra,Química Orgânica,1.06.01.00-7
+144,Ciências Exatas e da Terra,"Estrutura, Conformação e Estereoquímica",1.06.01.01-5
+145,Ciências Exatas e da Terra,Sintese Orgânica,1.06.01.02-3
+146,Ciências Exatas e da Terra,Fisico-Química Orgânica,1.06.01.03-1
+147,Ciências Exatas e da Terra,Fotoquímica Orgânica,1.06.01.04-0
+148,Ciências Exatas e da Terra,Química dos Produtos Naturais,1.06.01.05-8
+149,Ciências Exatas e da Terra,"Evolução, Sistemática e Ecologia Química",1.06.01.06-6
+150,Ciências Exatas e da Terra,Polimeros e Colóides,1.06.01.07-4
+151,Ciências Exatas e da Terra,Química Inorgânica,1.06.02.00-3
+152,Ciências Exatas e da Terra,Campos de Coordenação,1.06.02.01-1
+153,Ciências Exatas e da Terra,Não-Metais e Seus Compostos,1.06.02.02-0
+154,Ciências Exatas e da Terra,Compostos Organo-Metálicos,1.06.02.03-8
+155,Ciências Exatas e da Terra,Determinação de Estrutura de Compostos Inorgânicos,1.06.02.04-6
+156,Ciências Exatas e da Terra,Foto-Química Inorgânica,1.06.02.05-4
+157,Ciências Exatas e da Terra,Fisico Química Inorgânica,1.06.02.06-2
+158,Ciências Exatas e da Terra,Química Bio-Inorgânica,1.06.02.07-0
+159,Ciências Exatas e da Terra,Fisico-Química,1.06.03.00-0
+160,Ciências Exatas e da Terra,Cinética Química e Catálise,1.06.03.01-8
+161,Ciências Exatas e da Terra,Eletroquímica,1.06.03.02-6
+162,Ciências Exatas e da Terra,Espectroscopia,1.06.03.03-4
+163,Ciências Exatas e da Terra,Química de Interfaces,1.06.03.04-2
+164,Ciências Exatas e da Terra,Química do Estado Condensado,1.06.03.05-0
+165,Ciências Exatas e da Terra,Química Nuclear e Radioquímica,1.06.03.06-9
+166,Ciências Exatas e da Terra,Química Teórica,1.06.03.07-7
+167,Ciências Exatas e da Terra,Termodinâmica Química,1.06.03.08-5
+168,Ciências Exatas e da Terra,Química Analítica,1.06.04.00-6
+169,Ciências Exatas e da Terra,Separação,1.06.04.01-4
+170,Ciências Exatas e da Terra,Métodos Óticos de Análise,1.06.04.02-2
+171,Ciências Exatas e da Terra,Eletroanalítica,1.06.04.03-0
+172,Ciências Exatas e da Terra,Gravimetria,1.07.02.10-5
+173,Ciências Exatas e da Terra,Titimetria,1.06.04.05-7
+174,Ciências Exatas e da Terra,Instrumentação Analítica,1.06.04.06-5
+175,Ciências Exatas e da Terra,Análise de Traços e Química Ambiental,1.06.04.07-3
+176,Ciências Exatas e da Terra,GeoCiências,1.07.00.00-5
+177,Ciências Exatas e da Terra,Geologia,1.07.01.00-1
+178,Ciências Exatas e da Terra,Mineralogia,1.07.01.01-0
+179,Ciências Exatas e da Terra,Petrologia,1.07.01.02-8
+180,Ciências Exatas e da Terra,Geoquímica,1.07.01.03-6
+181,Ciências Exatas e da Terra,Geologia Regional,1.07.01.04-4
+182,Ciências Exatas e da Terra,Geotectônica,1.07.01.05-2
+183,Ciências Exatas e da Terra,Geocronologia,1.07.01.06-0
+184,Ciências Exatas e da Terra,Cartografia Geológica,1.07.01.07-9
+185,Ciências Exatas e da Terra,Metalogenia,1.07.01.08-7
+186,Ciências Exatas e da Terra,Hidrogeologia,1.07.01.09-5
+187,Ciências Exatas e da Terra,Prospecção Mineral,1.07.01.10-9
+188,Ciências Exatas e da Terra,Sedimentologia,3.07.01.05-8
+189,Ciências Exatas e da Terra,Paleontologia Estratigráfica,1.07.01.12-5
+190,Ciências Exatas e da Terra,Estratigrafia,1.07.01.13-3
+191,Ciências Exatas e da Terra,Geologia Ambiental,1.07.01.14-1
+192,Ciências Exatas e da Terra,Geofísica,1.07.02.00-8
+193,Ciências Exatas e da Terra,Geomagnetismo,1.07.02.01-6
+194,Ciências Exatas e da Terra,Sismologia,1.07.02.02-4
+195,Ciências Exatas e da Terra,Geotermia e Fluxo Térmico,1.07.02.03-2
+196,Ciências Exatas e da Terra,Propriedades Físicas das Rochas,1.07.02.04-0
+197,Ciências Exatas e da Terra,Geofísica Nuclear,1.07.02.05-9
+198,Ciências Exatas e da Terra,Sensoriamento Remoto,1.07.02.06-7
+199,Ciências Exatas e da Terra,Aeronomia,1.07.02.07-5
+200,Ciências Exatas e da Terra,Desenvolvimento de Instrumentação Geofísica,1.07.02.08-3
+201,Ciências Exatas e da Terra,Geofísica Aplicada,1.07.02.09-1
+202,Ciências Exatas e da Terra,Meteorologia,1.07.03.00-4
+203,Ciências Exatas e da Terra,Meteorologia Dinâmica,1.07.03.01-2
+204,Ciências Exatas e da Terra,Meteorologia Sinótica,1.07.03.02-0
+205,Ciências Exatas e da Terra,Meteorologia Física,1.07.03.03-9
+206,Ciências Exatas e da Terra,Química da Atmosfera,1.07.03.04-7
+207,Ciências Exatas e da Terra,Instrumentação Meteorológica,1.07.03.05-5
+208,Ciências Exatas e da Terra,Climatologia,1.07.03.06-3
+209,Ciências Exatas e da Terra,Micrometeorologia,1.07.03.07-1
+210,Ciências Exatas e da Terra,Sensoriamento Remoto da Atmosfera,1.07.03.08-0
+211,Ciências Exatas e da Terra,Meteorologia Aplicada,1.07.03.09-8
+212,Ciências Exatas e da Terra,Geodesia,1.07.04.00-0
+213,Ciências Exatas e da Terra,Geodesia Física,1.07.04.01-9
+214,Ciências Exatas e da Terra,Geodesia Geométrica,1.07.04.02-7
+215,Ciências Exatas e da Terra,Geodesia Celeste,1.07.04.03-5
+216,Ciências Exatas e da Terra,Fotogrametria,1.07.04.04-3
+217,Ciências Exatas e da Terra,Cartografia Básica,1.07.04.05-1
+218,Ciências Exatas e da Terra,Geografia Física,1.07.05.00-7
+219,Ciências Exatas e da Terra,Geomorfologia,1.07.05.01-5
+220,Ciências Exatas e da Terra,Climatologia Geográfica,1.07.05.02-3
+221,Ciências Exatas e da Terra,Pedologia,1.07.05.03-1
+222,Ciências Exatas e da Terra,Hidrogeografia,1.07.05.04-0
+223,Ciências Exatas e da Terra,Geoecologia,1.07.05.05-8
+224,Ciências Exatas e da Terra,Fotogeografia (Físico-Ecológica),1.07.05.06-6
+225,Ciências Exatas e da Terra,Geocartografia,1.07.05.07-4
+226,Ciências Exatas e da Terra,Oceanografia,1.08.00.00-0
+227,Ciências Exatas e da Terra,Oceanografia Biológica,1.08.01.00-6
+228,Ciências Exatas e da Terra,Interação entre os Organismos Marinhos e os Parâmetros Ambientais,1.08.01.01-4
+229,Ciências Exatas e da Terra,Oceanografia Física,1.08.02.00-2
+230,Ciências Exatas e da Terra,Variáveis Físicas da Água do Mar,1.08.02.01-0
+231,Ciências Exatas e da Terra,Movimento da Água do Mar,1.08.02.02-9
+232,Ciências Exatas e da Terra,Origem das Massas de Água,1.08.02.03-7
+233,Ciências Exatas e da Terra,Interação do Oceano com o Leito do Mar,1.08.02.04-5
+234,Ciências Exatas e da Terra,Interação do Oceano com a Atmosfera,1.08.02.05-3
+235,Ciências Exatas e da Terra,Oceanografia Química,1.08.03.00-9
+236,Ciências Exatas e da Terra,Propriedades Químicas da Água do Mar,1.08.03.01-7
+237,Ciências Exatas e da Terra,Interações Químico-Biológicas/Geológicas das Substâncias Químicas da Água do Mar,1.08.03.02-5
+238,Ciências Exatas e da Terra,Oceanografia Geológica,1.08.04.00-5
+239,Ciências Exatas e da Terra,Geomorfologia Submarina,1.08.04.01-3
+240,Ciências Exatas e da Terra,Sedimentologia Marinha,1.08.04.02-1
+241,Ciências Exatas e da Terra,Geofísica Marinha,1.08.04.03-0
+242,Ciências Biológicas,Ciências Biológicas,2.00.00.00-6
+243,Ciências Biológicas,Biologia Geral,2.01.00.00-0
+244,Ciências Biológicas,Genética,2.02.00.00-5
+245,Ciências Biológicas,Genética Quantitativa,2.02.01.00-1
+246,Ciências Biológicas,Genética Molecular e de Microorganismos,2.02.02.00-8
+247,Ciências Biológicas,Genética Vegetal,2.02.03.00-4
+248,Ciências Biológicas,Genética Animal,2.02.04.00-0
+249,Ciências Biológicas,Genética Humana e Médica,2.02.05.00-7
+250,Ciências Biológicas,Mutagênese,2.02.06.00-3
+251,Ciências Biológicas,Botânica,2.03.00.00-0
+252,Ciências Biológicas,Paleobotânica,2.03.01.00-6
+253,Ciências Biológicas,Morfologia Vegetal,2.03.02.00-2
+254,Ciências Biológicas,Morfologia Externa,2.03.02.01-0
+255,Ciências Biológicas,Citologia Vegetal,2.03.02.02-9
+256,Ciências Biológicas,Anatomia Vegetal,2.03.02.03-7
+257,Ciências Biológicas,Palinologia,2.03.02.04-5
+258,Ciências Biológicas,Fisiologia Vegetal,2.03.03.00-9
+259,Ciências Biológicas,Nutrição e Crescimento Vegetal,2.03.03.01-7
+260,Ciências Biológicas,Reprodução Vegetal,2.03.03.02-5
+261,Ciências Biológicas,Ecofisiologia Vegetal,2.03.03.03-3
+262,Ciências Biológicas,Taxonomia Vegetal,2.03.04.00-5
+263,Ciências Biológicas,Taxonomia de Criptógamos,2.03.04.01-3
+264,Ciências Biológicas,Taxonomia de Fanerógamos,2.03.04.02-1
+265,Ciências Biológicas,Fitogeografia,2.03.05.00-1
+266,Ciências Biológicas,Botânica Aplicada,2.03.06.00-8
+267,Ciências Biológicas,Zoologia,2.04.00.00-4
+268,Ciências Biológicas,Paleozoologia,2.04.01.00-0
+269,Ciências Biológicas,Morfologia dos Grupos Recentes,2.04.02.00-7
+270,Ciências Biológicas,Fisiologia dos Grupos Recentes,2.04.03.00-3
+271,Ciências Biológicas,Comportamento Animal,2.04.04.00-0
+272,Ciências Biológicas,Taxonomia dos Grupos Recentes,2.04.05.00-6
+273,Ciências Biológicas,Zoologia Aplicada,2.04.06.00-2
+274,Ciências Biológicas,Conservação das Espécies Animais,2.04.06.01-0
+275,Ciências Biológicas,Utilização dos Animais,2.04.06.02-9
+276,Ciências Biológicas,Controle Populacional de Animais,2.04.06.03-7
+277,Ciências Biológicas,Ecologia,2.05.00.00-9
+278,Ciências Biológicas,Ecologia Teórica,2.05.01.00-5
+279,Ciências Biológicas,Ecologia de Ecossistemas,2.05.02.00-1
+280,Ciências Biológicas,Ecologia Aplicada,2.05.03.00-8
+281,Ciências Biológicas,Morfologia,2.06.00.00-3
+282,Ciências Biológicas,Citologia e Biologia Celular,2.06.01.00-0
+283,Ciências Biológicas,Embriologia,2.06.02.00-6
+284,Ciências Biológicas,Histologia,2.06.03.00-2
+285,Ciências Biológicas,Anatomia,2.06.04.00-9
+286,Ciências Biológicas,Anatomia Humana,2.06.04.01-7
+287,Ciências Biológicas,Fisiologia,2.07.00.00-8
+288,Ciências Biológicas,Fisiologia Geral,2.07.01.00-4
+289,Ciências Biológicas,Fisiologia de Órgaos e Sistemas,2.07.02.00-0
+290,Ciências Biológicas,Neurofisiologia,2.07.02.01-9
+291,Ciências Biológicas,Fisiologia Cardiovascular,2.07.02.02-7
+292,Ciências Biológicas,Fisiologia da Respiração,2.07.02.03-5
+293,Ciências Biológicas,Fisiologia Renal,2.07.02.04-3
+294,Ciências Biológicas,Fisiologia Endocrina,2.07.02.05-1
+295,Ciências Biológicas,Fisiologia da Digestão,2.07.02.06-0
+296,Ciências Biológicas,Cinesiologia,2.07.02.07-8
+297,Ciências Biológicas,Fisiologia do Esforço,2.07.03.00-7
+298,Ciências Biológicas,Fisiologia Comparada,2.07.04.00-3
+299,Ciências Biológicas,Bioquímica,2.08.00.00-2
+300,Ciências Biológicas,Química de Macromoléculas,2.08.01.00-9
+301,Ciências Biológicas,Proteínas,2.08.01.01-7
+302,Ciências Biológicas,Lipídeos,2.08.01.02-5
+303,Ciências Biológicas,Glicídeos,2.08.01.03-3
+304,Ciências Biológicas,Bioquímica dos Microorganismos,2.08.02.00-5
+305,Ciências Biológicas,Metabolismo e Bioenergética,2.08.03.00-1
+306,Ciências Biológicas,Biologia Molecular,2.08.04.00-8
+307,Ciências Biológicas,Enzimologia,2.08.05.00-4
+308,Ciências Biológicas,Biofísica,2.09.00.00-7
+309,Ciências Biológicas,Biofísica Molecular,2.09.01.00-3
+310,Ciências Biológicas,Biofísica Celular,2.09.02.00-0
+311,Ciências Biológicas,Biofísica de Processos e Sistemas,2.09.03.00-6
+312,Ciências Biológicas,Radiologia e Fotobiologia,2.09.04.00-2
+313,Ciências Biológicas,Farmacologia,2.10.00.00-0
+314,Ciências Biológicas,Farmacologia Geral,2.10.01.00-6
+315,Ciências Biológicas,Farmacocinética,2.10.01.01-4
+316,Ciências Biológicas,Biodisponibilidade,2.10.01.02-2
+317,Ciências Biológicas,Farmacologia Autonômica,2.10.02.00-2
+318,Ciências Biológicas,Neuropsicofarmacologia,2.10.03.00-9
+319,Ciências Biológicas,Farmacologia Cardiorenal,2.10.04.00-5
+320,Ciências Biológicas,Farmacologia Bioquímica e Molecular,2.10.05.00-1
+321,Ciências Biológicas,Etnofarmacologia,2.10.06.00-8
+322,Ciências Biológicas,Toxicologia,2.10.07.00-4
+323,Ciências Biológicas,Farmacologia Clínica,2.10.08.00-0
+324,Ciências Biológicas,Imunologia,2.11.00.00-4
+325,Ciências Biológicas,Imunoquímica,2.11.01.00-0
+326,Ciências Biológicas,Imunologia Celular,2.11.02.00-7
+327,Ciências Biológicas,Imunogenética,2.11.03.00-3
+328,Ciências Biológicas,Imunologia Aplicada,2.11.04.00-0
+329,Ciências Biológicas,Microbiologia,2.12.00.00-9
+330,Ciências Biológicas,Biologia e Fisiologia dos Microorganismos,2.12.01.00-5
+331,Ciências Biológicas,Virologia,2.12.01.01-3
+332,Ciências Biológicas,Bacterologia,2.12.01.02-1
+333,Ciências Biológicas,Micologia,2.12.01.03-0
+334,Ciências Biológicas,Microbiologia Aplicada,2.12.02.00-1
+335,Ciências Biológicas,Microbiologia Médica,2.12.02.01-0
+336,Ciências Biológicas,Microbiologia Industrial e de Fermentação,2.12.02.02-8
+337,Ciências Biológicas,Parasitologia,2.13.00.00-3
+338,Ciências Biológicas,Protozoologia de Parasitos,2.13.01.00-0
+339,Ciências Biológicas,Protozoologia Parasitária Humana,2.13.01.01-8
+340,Ciências Biológicas,Protozoologia Parasitária Animal,2.13.01.02-6
+341,Ciências Biológicas,Helmintologia de Parasitos,2.13.02.00-6
+342,Ciências Biológicas,Helmintologia Humana,2.13.02.01-4
+343,Ciências Biológicas,Helmintologia Animal,2.13.02.02-2
+344,Ciências Biológicas,Entomologia e Malacologia de Parasitos e Vetores,2.13.03.00-2
+345,Engenharias,Engenharias,3.00.00.00-9
+346,Engenharias,Engenharia Civil,3.01.00.00-3
+347,Engenharias,Construção Civil,3.01.01.00-0
+348,Engenharias,Materiais e Componentes de Construção,3.01.01.01-8
+349,Engenharias,Processos Construtivos,3.01.01.02-6
+350,Engenharias,Instalações Prediais,3.01.01.03-4
+351,Engenharias,Estruturas,3.01.02.00-6
+352,Engenharias,Estruturas de Concreto,3.01.02.01-4
+353,Engenharias,Estruturas de Madeiras,3.01.02.02-2
+354,Engenharias,Estruturas Metálicas,3.01.02.03-0
+355,Engenharias,Mecânica das Estruturas,3.01.02.04-9
+356,Engenharias,Geotécnica,3.01.03.00-2
+357,Engenharias,Fundações e Escavações,3.01.03.01-0
+358,Engenharias,Mecânicas das Rochas,3.01.03.02-9
+359,Engenharias,Mecânicas dos Solos,3.01.03.03-7
+360,Engenharias,Obras de Terra e Enrocamento,3.01.03.04-5
+361,Engenharias,Pavimentos,3.01.03.05-3
+362,Engenharias,Engenharia Hidráulica,3.01.04.00-9
+363,Engenharias,Hidráulica,3.01.04.01-7
+364,Engenharias,Hidrologia,3.01.04.02-5
+365,Engenharias,Infra-Estrutura de Transportes,3.01.05.00-5
+366,Engenharias,Aeroportos; Projeto e Construção,3.01.05.01-3
+367,Engenharias,Ferrovias; Projetos e Construção,3.01.05.02-1
+368,Engenharias,Portos e Vias Nevegáveis; Projeto e Construção,3.01.05.03-0
+369,Engenharias,Rodovias; Projeto e Construção,3.01.05.04-8
+370,Engenharias,Engenharia de Minas,3.02.00.00-8
+371,Engenharias,Pesquisa Mineral,3.02.01.00-4
+372,Engenharias,Caracterização do Minério,3.02.01.01-2
+373,Engenharias,Dimensionamento de Jazidas,3.02.01.02-0
+374,Engenharias,Lavra,3.02.02.00-0
+375,Engenharias,Lavra a Céu Aberto,3.02.02.01-9
+376,Engenharias,Lavra de Mina Subterrânea,3.02.02.02-7
+377,Engenharias,Equipamentos de Lavra,3.02.02.03-5
+378,Engenharias,Tratamento de Minérios,3.03.02.05-6
+379,Engenharias,Métodos de Concentração e Enriquecimento de Minérios,3.02.03.01-5
+380,Engenharias,Equipamentos de Beneficiamento de Minérios,3.02.03.02-3
+381,Engenharias,Engenharia de Materiais e Metalúrgica,3.03.00.00-2
+382,Engenharias,Instalações e Equipamentos Metalúrgicos,3.03.01.00-9
+383,Engenharias,Instalações Metalúrgicas,3.03.01.01-7
+384,Engenharias,Equipamentos Metalúrgicos,3.03.01.02-5
+385,Engenharias,Metalurgia Extrativa,3.03.02.00-5
+386,Engenharias,Aglomeração,3.03.02.01-3
+387,Engenharias,Eletrometalurgia,3.03.02.02-1
+388,Engenharias,Hidrometalurgia,3.03.02.03-0
+389,Engenharias,Pirometalurgia,3.03.02.04-8
+390,Engenharias,Metalurgia de Transformação,3.03.03.00-1
+391,Engenharias,Conformação Mecânica,3.03.03.01-0
+392,Engenharias,Fundição,3.03.03.02-8
+393,Engenharias,Metalurgia de Po,3.03.03.03-6
+394,Engenharias,Recobrimentos,3.03.03.04-4
+395,Engenharias,Soldagem,3.03.03.05-2
+396,Engenharias,"Tratamento Térmicos, Mecânicos e Químicos",3.03.03.06-0
+397,Engenharias,Usinagem,3.03.03.07-9
+398,Engenharias,Metalurgia Fisica,3.03.04.00-8
+399,Engenharias,Estrutura dos Metais e Ligas,3.03.04.01-6
+400,Engenharias,Propriedades Físicas dos Metais e Ligas,3.03.04.02-4
+401,Engenharias,Propriedades Mecânicas dos Metais e Ligas,3.03.04.03-2
+402,Engenharias,Transformação de Fases,3.03.04.04-0
+403,Engenharias,Corrosão,3.03.04.05-9
+404,Engenharias,Materiais não Metálicos,3.03.05.00-4
+405,Engenharias,Extração e Transformação de Materiais,3.03.05.01-2
+406,Engenharias,Cerâmicos,3.03.05.02-0
+407,Engenharias,Materiais Conjugados não Metálicos,3.03.05.03-9
+408,Engenharias,"Polímeros, Aplicações",3.03.05.04-7
+409,Engenharias,Engenharia Elétrica,3.04.00.00-7
+410,Engenharias,Materiais Elétricos,3.04.01.00-3
+411,Engenharias,Materiais Condutores,3.04.01.01-1
+412,Engenharias,Materiais e Componentes Semicondutores,3.04.01.02-0
+413,Engenharias,Materiais e Dispositivos Supercondutores,3.04.01.03-8
+414,Engenharias,"Materiais Dielétricos, Piesoelétricos e Ferroelétricos",3.04.01.04-6
+415,Engenharias,"Materiais e Componentes Eletroóticos e Magnetoóticos, Materiais Fotoelétricos",3.04.01.05-4
+416,Engenharias,Materiais e Dispositivos Magnéticos,3.04.01.06-2
+417,Engenharias,"Medidas Elétricas, Magnéticas e Eletrônicas; Instrumentação",3.04.02.00-0
+418,Engenharias,Medidas Elétricas,3.04.02.01-8
+419,Engenharias,Medidas Magnéticas,3.04.02.02-6
+420,Engenharias,Instrumentação Eletromecânica,3.04.02.03-4
+421,Engenharias,Instrumentação Eletrônica,3.04.02.04-2
+422,Engenharias,Sistemas Eletrônicos de Medida e de Controle,3.04.02.05-0
+423,Engenharias,"Circuitos Elétricos, Magnéticos e Eletrônicos",3.04.03.00-6
+424,Engenharias,Teoria Geral dos Circuitos Elétricos,3.04.03.01-4
+425,Engenharias,Circuitos Lineares e Não-Lineares,3.04.03.02-2
+426,Engenharias,Circuitos Eletrônicos,3.04.03.03-0
+427,Engenharias,"Circuitos Magnéticos, Magnetismos, Eletromagnetismo",3.04.03.04-9
+428,Engenharias,Sistemas Elétricos de Potência,3.04.04.00-2
+429,Engenharias,Geração da Energia Elétrica,3.04.04.01-0
+430,Engenharias,"Transmissão da Energia Elétrica, Distribuição da Energia Elétrica",3.04.04.02-9
+431,Engenharias,Conversão e Retificação da Energia Elétrica,3.04.04.03-7
+432,Engenharias,"Medição, Controle, Correção e Proteção de Sistemas Elétricos de Potência",3.04.04.04-5
+433,Engenharias,Máquinas Elétricas e Dispositivos de Potência,3.04.04.05-3
+434,Engenharias,Instalações Elétricas Prediais e Industriais,3.04.04.06-1
+435,Engenharias,"Eletrônica Industrial, Sistemas e Controles Eletrônicos",3.04.05.00-9
+436,Engenharias,Eletrônica Industrial,3.04.05.01-7
+437,Engenharias,Automação Eletrônica de Processos Elétricos e Industriais,3.04.05.02-5
+438,Engenharias,"Controle de Processos Eletrônicos, Retroalimentação",3.04.05.03-3
+439,Engenharias,Telecomunicações,3.04.06.00-5
+440,Engenharias,"Teoria Eletromagnética, Microondas, Propagação de Ondas, Antenas",3.04.06.01-3
+441,Engenharias,Radionavegação e Radioastronomia,3.04.06.02-1
+442,Engenharias,Sistemas de Telecomunicações,3.04.06.03-0
+443,Engenharias,Engenharia Mecânica,3.05.00.00-1
+444,Engenharias,Fenômenos de Transporte,3.05.01.00-8
+445,Engenharias,Transferência de Calor,3.05.01.01-6
+446,Engenharias,Mecânica dos Fluidos,3.05.01.02-4
+447,Engenharias,Dinâmica dos Gases,3.05.01.03-2
+448,Engenharias,Principios Variacionais e Métodos Numéricos,3.05.01.04-0
+449,Engenharias,Engenharia Térmica,3.05.02.00-4
+450,Engenharias,Termodinâmica,3.05.02.01-2
+451,Engenharias,Controle Ambiental,3.05.02.02-0
+452,Engenharias,Aproveitamento da Energia,3.05.02.03-9
+453,Engenharias,Mecânica dos Sólidos,3.05.03.00-0
+454,Engenharias,"Mecânica  dos  Corpos  Sólidos,  Elásticos  e  Plásticos",3.05.03.01-9
+455,Engenharias,"Dinâmica  dos  Corpos  Rígidos,  Elásticos  e  Plásticos",3.05.03.02-7
+456,Engenharias,Análise de Tensões,3.05.03.03-5
+457,Engenharias,Termoelasticidade,3.05.03.04-3
+458,Engenharias,Projetos de Máquinas,3.05.04.00-7
+459,Engenharias,Teoria dos Mecanismos,3.05.04.01-5
+460,Engenharias,Estática e Dinâmica Aplicada,3.05.04.02-3
+461,Engenharias,Elementos de Máquinas,3.05.04.03-1
+462,Engenharias,Fundamentos Gerais de Projetos das Máquinas,3.05.04.04-0
+463,Engenharias,"Máquinas, Motores e Equipamentos",3.05.04.05-8
+464,Engenharias,Métodos de Síntese e Otimização Aplicados ao Projeto Mecânico,3.05.04.06-6
+465,Engenharias,Controle de Sistemas Mecânicos,3.05.04.07-4
+466,Engenharias,Aproveitamento de Energia,3.05.04.08-2
+467,Engenharias,Processos de Fabricação,3.05.05.00-3
+468,Engenharias,Matrizes e Ferramentas,3.05.05.01-1
+469,Engenharias,Máquinas de Usinagem e Conformação,3.05.05.02-0
+470,Engenharias,Controle Numérico,3.05.05.03-8
+471,Engenharias,Robotização,3.05.05.04-6
+472,Engenharias,"Processos de Fabricação, Seleção Econômica",3.05.05.05-4
+473,Engenharias,Engenharia Química,3.06.00.00-6
+474,Engenharias,Processos Industriais de Engenharia Química,3.06.01.00-2
+475,Engenharias,Processos Bioquimicos,3.06.01.01-0
+476,Engenharias,Processos Orgânicos,3.06.01.02-9
+477,Engenharias,Processos Inorgânicos,3.06.01.03-7
+478,Engenharias,Operações Industriais e Equipamentos para Engenharia Química,3.06.02.00-9
+479,Engenharias,Reatores Químicos,3.06.02.01-7
+480,Engenharias,Operações Características de Processos Bioquímicos,3.06.02.02-5
+481,Engenharias,Operações de Separação e Mistura,3.06.02.03-3
+482,Engenharias,Tecnologia Química,3.06.03.00-5
+483,Engenharias,Balancos Globais de Matéria e Energia,3.06.03.01-3
+484,Engenharias,Água,3.06.03.02-1
+485,Engenharias,Álcool,3.06.03.03-0
+486,Engenharias,Alimentos,3.06.03.04-8
+487,Engenharias,Borrachas,3.06.03.05-6
+488,Engenharias,Carvão,3.06.03.06-4
+489,Engenharias,Cerâmica,8.03.02.05-0
+490,Engenharias,Cimento,3.06.03.08-0
+491,Engenharias,Couro,3.06.03.09-9
+492,Engenharias,Detergentes,3.06.03.10-2
+493,Engenharias,Fertilizantes,3.06.03.11-0
+494,Engenharias,Medicamentos,3.06.03.12-9
+495,Engenharias,Metais não-Ferrosos,3.06.03.13-7
+496,Engenharias,Óleos,3.06.03.14-5
+497,Engenharias,Papel e Celulose,3.06.03.15-3
+498,Engenharias,Petróleo e Petroquímica,3.06.03.16-1
+499,Engenharias,Polímeros,3.06.03.17-0
+500,Engenharias,Produtos Naturais,3.06.03.18-8
+501,Engenharias,Têxteis,3.06.03.19-6
+502,Engenharias,Tratamentos e Aproveitamento de Rejeitos,3.06.03.20-0
+503,Engenharias,Xisto,3.06.03.21-8
+504,Engenharias,Engenharia Sanitária,3.07.00.00-0
+505,Engenharias,Recursos Hídricos,3.07.01.00-7
+506,Engenharias,Planejamento Integrado dos Recursos Hídricos,3.07.01.01-5
+507,Engenharias,Tecnologia e Problemas Sanitários de Irrigação,3.07.01.02-3
+508,Engenharias,Águas Subterrâneas e Poços Profundos,3.07.01.03-1
+509,Engenharias,Controle de Enchentes e de Barragens,3.07.01.04-0
+510,Engenharias,Tratamento de Águas de Abastecimento e Residuárias,3.07.02.00-3
+511,Engenharias,Química Sanitária,3.07.02.01-1
+512,Engenharias,Processos Simplificados de Tratamento de Águas,3.07.02.02-0
+513,Engenharias,Técnicas Convencionais de Tratamento de Águas,3.07.02.03-8
+514,Engenharias,Técnicas Avancadas de Tratamento de Águas,3.07.02.04-6
+515,Engenharias,Estudos e Caracterização de Efluentes Industriais,3.07.02.05-4
+516,Engenharias,Lay Out de Processos Industriais,3.07.02.06-2
+517,Engenharias,Resíduos Radioativos,3.07.02.07-0
+518,Engenharias,Saneamento Básico,3.07.03.00-0
+519,Engenharias,Técnicas de Abastecimento da Água,3.07.03.01-8
+520,Engenharias,Drenagem de Águas Residuárias,3.07.03.02-6
+521,Engenharias,Drenagem Urbana de Águas Pluviais,3.07.03.03-4
+522,Engenharias,"Resíduos Sólidos, Domésticos e Industriais",3.07.03.04-2
+523,Engenharias,Limpeza Pública,3.07.03.05-0
+524,Engenharias,Instalações Hidráulico-Sanitárias,3.07.03.06-9
+525,Engenharias,Saneamento Ambiental,3.07.04.00-6
+526,Engenharias,Ecologia Aplicada à Engenharia Sanitária,3.07.04.01-4
+527,Engenharias,Microbiologia Aplicada e Engenharia Sanitária,3.07.04.02-2
+528,Engenharias,Parasitologia Aplicada à Engenharia Sanitária,3.07.04.03-0
+529,Engenharias,"Qualidade do Ar, das Águas e do Solo",3.07.04.04-9
+530,Engenharias,Controle da Poluição,3.07.04.05-7
+531,Engenharias,Legislação Ambiental,3.07.04.06-5
+532,Engenharias,Engenharia de Produção,3.08.00.00-5
+533,Engenharias,Gerência de Produção,3.08.01.00-1
+534,Engenharias,Planejamento de Instalações Industriais,3.08.01.01-0
+535,Engenharias,"Planejamento, Projeto e Controle de Sistemas de Produção",3.08.01.02-8
+536,Engenharias,Higiene e Segurança do Trabalho,3.08.01.03-6
+537,Engenharias,Suprimentos,3.08.01.04-4
+538,Engenharias,Garantia de Controle de Qualidade,3.08.01.05-2
+539,Engenharias,Pesquisa Operacional,3.08.02.00-8
+540,Engenharias,Processos Estocásticos e Teorias da Filas,3.08.02.01-6
+541,Engenharias,"Programação Linear, Não-Linear, Mista e Dinâmica",3.08.02.02-4
+542,Engenharias,Séries Temporais,3.08.02.03-2
+543,Engenharias,Teoria dos Grafos,3.08.02.04-0
+544,Engenharias,Teoria dos Jogos,3.08.02.05-9
+545,Engenharias,Engenharia do Produto,3.08.03.00-4
+546,Engenharias,Ergonomia,3.08.03.01-2
+547,Engenharias,Metodologia de Projeto do Produto,3.08.03.02-0
+548,Engenharias,Processos de Trabalho,3.08.03.03-9
+549,Engenharias,Gerência do Projeto e do Produto,3.08.03.04-7
+550,Engenharias,Desenvolvimento de Produto,3.08.03.05-5
+551,Engenharias,Engenharia Econômica,3.08.04.00-0
+552,Engenharias,Estudo de Mercado,3.08.04.01-9
+553,Engenharias,Localização Industrial,3.08.04.02-7
+554,Engenharias,Análise de Custos,3.08.04.03-5
+555,Engenharias,Economia de Tecnologia,3.08.04.04-3
+556,Engenharias,Vida Econômica dos Equipamentos,3.08.04.05-1
+557,Engenharias,Avaliação de Projetos,3.08.04.06-0
+558,Engenharias,Engenharia Nuclear,3.09.00.00-0
+559,Engenharias,Aplicações de Radioisotopos,3.09.01.00-6
+560,Engenharias,Produção de Radioisotopos,3.09.01.01-4
+561,Engenharias,Aplicações Industriais de Radioisotopos,3.09.01.02-2
+562,Engenharias,Instrumentação para Medida e Controle de Radiação,3.09.01.03-0
+563,Engenharias,Fusão Controlada,3.09.02.00-2
+564,Engenharias,Processos Industriais da Fusão Controlada,3.09.02.01-0
+565,Engenharias,Problemas Tecnológicos da Fusão Controlada,3.09.02.02-9
+566,Engenharias,Combustível Nuclear,3.09.03.00-9
+567,Engenharias,Extração de Combustível Nuclear,3.09.03.01-7
+568,Engenharias,"Conversão, Enriquecimento e Fabricação de Combustível Nuclear",3.09.03.02-5
+569,Engenharias,Reprocessamento de Combustível Nuclear,3.09.03.03-3
+570,Engenharias,Rejeitos de Combustível Nuclear,3.09.03.04-1
+571,Engenharias,Tecnologia dos Reatores,3.09.04.00-5
+572,Engenharias,Núcleo do Reator,3.09.04.01-3
+573,Engenharias,Materiais Nucleares e Blindagem de Reatores,3.09.04.02-1
+574,Engenharias,Transferência de Calor em Reatores,3.09.04.03-0
+575,Engenharias,Geração e Integração Com Sistemas Elétricos em Reatores,3.09.04.04-8
+576,Engenharias,Instrumentação Para Operação e Controle de Reatores,3.09.04.05-6
+577,Engenharias,"Seguranca, Localização e Licênciamento de Reatores",3.09.04.06-4
+578,Engenharias,Aspectos Econômicos de Reatores,3.09.04.07-2
+579,Engenharias,Engenharia de Transportes,3.10.00.00-2
+580,Engenharias,Planejamento de Transportes,3.10.01.00-9
+581,Engenharias,Planejamento e Organização do Sistema de Transporte,3.10.01.01-7
+582,Engenharias,Economia dos Transportes,3.10.01.02-5
+583,Engenharias,Veículos e Equipamentos de Controle,3.10.02.00-5
+584,Engenharias,Vias de Transporte,3.10.02.01-3
+585,Engenharias,Veículos de Transportes,3.10.02.02-1
+586,Engenharias,Estação de Transporte,3.10.02.03-0
+587,Engenharias,Equipamentos Auxiliares e Controles,3.10.02.04-8
+588,Engenharias,Operações de Transportes,3.10.03.00-1
+589,Engenharias,Engenharia de Tráfego,3.10.03.01-0
+590,Engenharias,Capacidade de Vias de Transporte,3.10.03.02-8
+591,Engenharias,Operação de Sistemas de Transporte,3.10.03.03-6
+592,Engenharias,Engenharia Naval e Oceânica,3.11.00.00-7
+593,Engenharias,Hidrodinâmica de Navios e Sistemas Oceânicos,3.11.01.00-3
+594,Engenharias,Resistência Hidrodinâmica,3.11.01.01-1
+595,Engenharias,Propulsão de Navios,3.11.01.02-0
+596,Engenharias,Estruturas Navais e Oceânicas,3.11.02.00-0
+597,Engenharias,Análise Teórica e Experimental de Estrutura,3.11.02.01-8
+598,Engenharias,Dinâmica Estrutural Naval e Oceânica,3.11.02.02-6
+599,Engenharias,Síntese Estrutural Naval e Oceânica,3.11.02.03-4
+600,Engenharias,Máquinas Marítimas,3.11.03.00-6
+601,Engenharias,Análise de Sistemas Propulsores,3.11.03.01-4
+602,Engenharias,Controle  e  Automação  de  Sistemas  Propulsores,3.11.03.02-2
+603,Engenharias,Equipamentos  Auxiliares  do  Sistema  Propulsivo,3.11.03.03-0
+604,Engenharias,Motor de Propulsão,3.11.03.04-9
+605,Engenharias,Projeto de Navios e de Sistemas Oceânicos,3.11.04.00-2
+606,Engenharias,Projetos de Navios,3.11.04.01-0
+607,Engenharias,Projetos de Sistemas Oceânicos Fixos e Semi-Fixos,3.11.04.02-9
+608,Engenharias,Projetos de Embarcações Não-Convencionais,3.11.04.03-7
+609,Engenharias,Tecnologia de Construção Naval e de Sistemas Oceânicas,3.11.05.00-9
+610,Engenharias,Métodos de Fabricação de Navios e Sistemas Oceânicos,3.11.05.01-7
+611,Engenharias,Soldagem de Estruturas Navais e Oceânicos,3.11.05.02-5
+612,Engenharias,Custos de Construção Naval,3.11.05.03-3
+613,Engenharias,Normatização e Certificação de Qualidade de Navios,3.11.05.04-1
+614,Engenharias,Engenharia Aeroespacial,3.12.00.00-1
+615,Engenharias,Aerodinâmica,3.12.01.00-8
+616,Engenharias,Aerodinâmica de Aeronaves Espaciais,3.12.01.01-6
+617,Engenharias,Aerodinâmica dos Processos Geofísicos e Interplanetarios,3.12.01.02-4
+618,Engenharias,Dinâmica de Vôo,3.12.02.00-4
+619,Engenharias,Trajetorias e Orbitas,3.12.02.01-2
+620,Engenharias,Estabilidade e Controle,3.12.02.02-0
+621,Engenharias,Estruturas Aeroespaciais,3.12.03.00-0
+622,Engenharias,Aeroelasticidade,3.12.03.01-9
+623,Engenharias,Fadiga,3.12.03.02-7
+624,Engenharias,Projeto de Estruturas Aeroespaciais,3.12.03.03-5
+625,Engenharias,Materiais e Processos para Engenharia Aeronáutica e Aeroespacial,3.12.04.00-7
+626,Engenharias,Propulsão Aeroespacial,3.12.05.00-3
+627,Engenharias,Combustão e Escoamento com Reações Químicas,3.12.05.01-1
+628,Engenharias,Propulsão de Foguetes,3.12.05.02-0
+629,Engenharias,Máquinas de Fluxo,3.12.05.03-8
+630,Engenharias,Motores Alternativos,3.12.05.04-6
+631,Engenharias,Sistemas Aeroespaciais,3.12.06.00-0
+632,Engenharias,Aviões,3.12.06.01-8
+633,Engenharias,Foguetes,3.12.06.02-6
+634,Engenharias,Helicópteros,3.12.06.03-4
+635,Engenharias,Hovercraft,3.12.06.04-2
+636,Engenharias,Satélites e Outros Dispositivos Aeroespaciais,3.12.06.05-0
+637,Engenharias,Normatização e Certificação de Qualidade de Aeronaves e Componentes,3.12.06.06-9
+638,Engenharias,Manutenção de Sistemas Aeroespaciais,3.12.06.07-7
+639,Engenharias,Engenharia Biomédica,3.13.00.00-6
+640,Engenharias,Bioengenharia,3.13.01.00-2
+641,Engenharias,Processamento de Sinais Biológicos,3.13.01.01-0
+642,Engenharias,Modelagem de Fenomenos Biológicos,3.13.01.02-9
+643,Engenharias,Modelagem de Sistemas Biológicos,3.13.01.03-7
+644,Engenharias,Engenharia Médica,3.13.02.00-9
+645,Engenharias,Biomateriais e Materiais Biocompatíveis,3.13.02.01-7
+646,Engenharias,Transdutores para Aplicações Biomédicas,3.13.02.02-5
+647,Engenharias,Instrumentação Odontológica e Médico-Hospitalar,3.13.02.03-3
+648,Engenharias,Tecnologia de Próteses,3.13.02.04-1
+649,Ciências da Saúde,Ciências da Saúde,4.00.00.00-1
+650,Ciências da Saúde,Medicina,4.01.00.00-6
+651,Ciências da Saúde,Clínica Médica,4.01.01.00-2
+652,Ciências da Saúde,Angiologia,4.01.01.01-0
+653,Ciências da Saúde,Dermatologia,4.01.01.02-9
+654,Ciências da Saúde,Alergologia e Imunologia Clínica,4.01.01.03-7
+655,Ciências da Saúde,Cancerologia,4.01.01.04-5
+656,Ciências da Saúde,Hematologia,4.01.01.05-3
+657,Ciências da Saúde,Endocrinologia,4.01.01.06-1
+658,Ciências da Saúde,Neurologia,4.01.01.07-0
+659,Ciências da Saúde,Pediatria,4.01.01.08-8
+660,Ciências da Saúde,Doenças Infecciosas e Parasitárias,4.01.01.09-6
+661,Ciências da Saúde,Cardiologia,4.01.01.10-0
+662,Ciências da Saúde,Gastroenterologia,4.01.01.11-8
+663,Ciências da Saúde,Pneumologia,4.01.01.12-6
+664,Ciências da Saúde,Nefrologia,4.01.01.13-4
+665,Ciências da Saúde,Reumatologia,4.01.01.14-2
+666,Ciências da Saúde,Ginecologia e Obstetrícia,4.01.01.15-0
+667,Ciências da Saúde,Fisiatria,4.01.01.16-9
+668,Ciências da Saúde,Oftalmologia,4.01.01.17-7
+669,Ciências da Saúde,Ortopedia,4.01.01.18-6
+670,Ciências da Saúde,Cirurgia,4.01.02.00-9
+671,Ciências da Saúde,Cirurgia Plástica e Restauradora,4.01.02.01-7
+672,Ciências da Saúde,Cirurgia Otorrinolaringológica,4.01.02.02-5
+673,Ciências da Saúde,Cirurgia Oftalmológica,4.01.02.03-3
+674,Ciências da Saúde,Cirurgia Cardiovascular,4.01.02.04-1
+675,Ciências da Saúde,Cirurgia Toráxica,4.01.02.05-0
+676,Ciências da Saúde,Cirurgia Gastroenterologia,4.01.02.06-8
+677,Ciências da Saúde,Cirurgia Pediátrica,4.01.02.07-6
+678,Ciências da Saúde,Neurocirurgia,4.01.02.08-4
+679,Ciências da Saúde,Cirurgia Urológica,4.01.02.09-2
+680,Ciências da Saúde,Cirurgia Proctológica,4.01.02.10-6
+681,Ciências da Saúde,Cirurgia Ortopédica,4.01.02.11-4
+682,Ciências da Saúde,Cirurgia Traumatológica,4.01.02.12-2
+683,Ciências da Saúde,Anestesiologia,4.01.02.13-0
+684,Ciências da Saúde,Cirurgia Experimental,4.01.02.14-9
+685,Ciências da Saúde,Saúde Materno-Infantil,4.01.03.00-5
+686,Ciências da Saúde,Psiquiatria,4.01.04.00-1
+687,Ciências da Saúde,Anatomia Patológica e Patologia Clínica,4.01.05.00-8
+688,Ciências da Saúde,Radiologia Médica,4.01.06.00-4
+689,Ciências da Saúde,Medicina Legal e Deontologia,4.01.07.00-0
+690,Ciências da Saúde,Odontologia,4.02.00.00-0
+691,Ciências da Saúde,Clínica Odontológica,4.02.01.00-7
+692,Ciências da Saúde,Cirurgia Buco-Maxilo-Facial,4.02.02.00-3
+693,Ciências da Saúde,Ortodontia,4.02.03.00-0
+694,Ciências da Saúde,Odontopediatria,4.02.04.00-6
+695,Ciências da Saúde,Periodontia,4.02.05.00-2
+696,Ciências da Saúde,Endodontia,4.02.06.00-9
+697,Ciências da Saúde,Radiologia Odontológica,4.02.07.00-5
+698,Ciências da Saúde,Odontologia Social e Preventiva,4.02.08.00-1
+699,Ciências da Saúde,Materiais Odontológicos,4.02.09.00-8
+700,Ciências da Saúde,Farmácia,4.03.00.00-5
+701,Ciências da Saúde,Farmacotecnia,4.03.01.00-1
+702,Ciências da Saúde,Farmacognosia,4.03.02.00-8
+703,Ciências da Saúde,Análise Toxicológica,4.03.03.00-4
+704,Ciências da Saúde,Análise e Controle e Medicamentos,4.03.04.00-0
+705,Ciências da Saúde,Bromatologia,4.03.05.00-7
+706,Ciências da Saúde,Enfermagem,4.04.00.00-0
+707,Ciências da Saúde,Enfermagem Médico-Cirúrgica,4.04.01.00-6
+708,Ciências da Saúde,Enfermagem Obstétrica,4.04.02.00-2
+709,Ciências da Saúde,Enfermagem Pediátrica,4.04.03.00-9
+710,Ciências da Saúde,Enfermagem Psiquiátrica,4.04.04.00-5
+711,Ciências da Saúde,Enfermagem de Doenças Contagiosas,4.04.05.00-1
+712,Ciências da Saúde,Enfermagem de Saúde Pública,4.04.06.00-8
+713,Ciências da Saúde,Nutrição,4.05.00.00-4
+714,Ciências da Saúde,Bioquímica da Nutrição,4.05.01.00-0
+715,Ciências da Saúde,Dietética,4.05.02.00-7
+716,Ciências da Saúde,Análise Nutricional de População,4.05.03.00-3
+717,Ciências da Saúde,Desnutrição e Desenvolvimento Fisiológico,4.05.04.00-0
+718,Ciências da Saúde,Saúde Coletiva,4.06.00.00-9
+719,Ciências da Saúde,Epidemiologia,4.06.01.00-5
+720,Ciências da Saúde,Saúde Publica,4.06.02.00-1
+721,Ciências da Saúde,Medicina Preventiva,4.06.03.00-8
+722,Ciências da Saúde,Fonoaudiologia,4.07.00.00-3
+723,Ciências da Saúde,Fisioterapia e Terapia Ocupacional,4.08.00.00-8
+724,Ciências da Saúde,Educação Física,4.09.00.00-2
+725,Ciências Agrárias,Ciências Agrárias,5.00.00.00-4
+726,Ciências Agrárias,Agronomia,5.01.00.00-9
+727,Ciências Agrárias,Ciência do Solo,5.01.01.00-5
+728,Ciências Agrárias,"Genese, Morfologia e Classificação dos Solos",5.01.01.01-3
+729,Ciências Agrárias,Física do Solo,5.01.01.02-1
+730,Ciências Agrárias,Química do Solo,5.01.01.03-0
+731,Ciências Agrárias,Microbiologia e Bioquímica do Solo,5.01.01.04-8
+732,Ciências Agrárias,Fertilidade do Solo e Adubação,5.01.01.05-6
+733,Ciências Agrárias,Manejo e Conservação do Solo,5.01.01.06-4
+734,Ciências Agrárias,Fitossanidade,5.01.02.00-1
+735,Ciências Agrárias,Fitopatologia,5.01.02.01-0
+736,Ciências Agrárias,Entomologia Agrícola,5.01.02.02-8
+737,Ciências Agrárias,Parasitologia Agrícola,5.01.02.03-6
+738,Ciências Agrárias,Microbiologia Agrícola,5.01.02.04-4
+739,Ciências Agrárias,Defesa Fitossanitária,5.01.02.05-2
+740,Ciências Agrárias,Fitotecnia,5.01.03.00-8
+741,Ciências Agrárias,Manejo e Tratos Culturais,5.01.03.01-6
+742,Ciências Agrárias,Mecanização Agrícola,5.01.03.02-4
+743,Ciências Agrárias,Produção e Beneficiamento de Sementes,5.01.03.03-2
+744,Ciências Agrárias,Produção de Mudas,5.01.03.04-0
+745,Ciências Agrárias,Melhoramento Vegetal,5.01.03.05-9
+746,Ciências Agrárias,Fisiologia de Plantas Cultivadas,5.01.03.06-7
+747,Ciências Agrárias,Matologia,5.01.03.07-5
+748,Ciências Agrárias,"Floricultura, Parques e Jardins",5.01.04.00-4
+749,Ciências Agrárias,Floricultura,5.01.04.01-2
+750,Ciências Agrárias,Parques e Jardins,5.01.04.02-0
+751,Ciências Agrárias,Arborização de Vias Públicas,5.01.04.03-9
+752,Ciências Agrárias,Agrometeorologia,5.01.05.00-0
+753,Ciências Agrárias,Extensão Rural,5.01.06.00-7
+754,Ciências Agrárias,Recursos Florestais e Engenharia Florestal,5.02.00.00-3
+755,Ciências Agrárias,Silvicultura,5.02.01.00-0
+756,Ciências Agrárias,Dendrologia,5.02.01.01-8
+757,Ciências Agrárias,Florestamento e Reflorestamento,5.02.01.02-6
+758,Ciências Agrárias,Genética e Melhoramento Florestal,5.02.01.03-4
+759,Ciências Agrárias,Sementes Florestais,5.02.01.04-2
+760,Ciências Agrárias,Nutrição Florestal,5.02.01.05-0
+761,Ciências Agrárias,Fisiologia Florestal,5.02.01.06-9
+762,Ciências Agrárias,Solos Florestais,5.02.01.07-7
+763,Ciências Agrárias,Proteção Florestal,5.02.01.08-5
+764,Ciências Agrárias,Manejo Florestal,5.02.02.00-6
+765,Ciências Agrárias,Economia Florestal,5.02.02.01-4
+766,Ciências Agrárias,Politica e Legislação Florestal,5.02.02.02-2
+767,Ciências Agrárias,Administração Florestal,5.02.02.03-0
+768,Ciências Agrárias,Dendrometria e Inventário Florestal,5.02.02.04-9
+769,Ciências Agrárias,Fotointerpretação Florestal,5.02.02.05-7
+770,Ciências Agrárias,Ordenamento Florestal,5.02.02.06-5
+771,Ciências Agrárias,Técnicas e Operações Florestais,5.02.03.00-2
+772,Ciências Agrárias,Exploração Florestal,5.02.03.01-0
+773,Ciências Agrárias,Mecanização Florestal,5.02.03.02-9
+774,Ciências Agrárias,Tecnologia e Utilização de Produtos Florestais,5.02.04.00-9
+775,Ciências Agrárias,Anatomia e Identificação de Produtos Florestais,5.02.04.01-7
+776,Ciências Agrárias,Propriedades Físico-Mecânicas da Madeira,5.02.04.02-5
+777,Ciências Agrárias,Relações Água-Madeira e Secagem,5.02.04.03-3
+778,Ciências Agrárias,Tratamento da Madeira,5.02.04.04-1
+779,Ciências Agrárias,Processamento Mecânico da Madeira,5.02.04.05-0
+780,Ciências Agrárias,Química da Madeira,5.02.04.06-8
+781,Ciências Agrárias,Resinas de Madeiras,5.02.04.07-6
+782,Ciências Agrárias,Tecnologia de Celulose e Papel,5.02.04.08-4
+783,Ciências Agrárias,Tecnologia de Chapas,5.02.04.09-2
+784,Ciências Agrárias,Conservação da Natureza,5.02.05.00-5
+785,Ciências Agrárias,Hidrologia Florestal,5.02.05.01-3
+786,Ciências Agrárias,Conservação de Áreas Silvestres,5.02.05.02-1
+787,Ciências Agrárias,Conservação de Bacias Hidrográficas,5.02.05.03-0
+788,Ciências Agrárias,Recuperação de Áreas Degradadas,5.02.05.04-8
+789,Ciências Agrárias,Energia de Biomassa Florestal,5.02.06.00-1
+790,Ciências Agrárias,Engenharia Agrícola,5.03.00.00-8
+791,Ciências Agrárias,Máquinas e Implementos Agrícolas,5.03.01.00-4
+792,Ciências Agrárias,Engenharia de Água e Solo,5.03.02.00-0
+793,Ciências Agrárias,Irrigação e Drenagem,5.03.02.01-9
+794,Ciências Agrárias,Conservação de Solo e Água,5.03.02.02-7
+795,Ciências Agrárias,Engenharia de Processamento de Produtos Agrícolas,5.03.03.00-7
+796,Ciências Agrárias,Pré-Processamento de Produtos Agrícolas,5.03.03.01-5
+797,Ciências Agrárias,Armazenamento de Produtos Agrícolas,5.03.03.02-3
+798,Ciências Agrárias,Transferência de Produtos Agrícolas,5.03.03.03-1
+799,Ciências Agrárias,Construções Rurais e Ambiência,5.03.04.00-3
+800,Ciências Agrárias,Assentamento Rural,5.03.04.01-1
+801,Ciências Agrárias,Engenharia de Construções Rurais,5.03.04.02-0
+802,Ciências Agrárias,Saneamento Rural,5.03.04.03-8
+803,Ciências Agrárias,Energização Rural,5.03.05.00-0
+804,Ciências Agrárias,Zootecnia,5.04.00.00-2
+805,Ciências Agrárias,Ecologia dos Animais Domésticos e Etologia,5.04.01.00-9
+806,Ciências Agrárias,Genética e Melhoramento dos Animais Domésticos,5.04.02.00-5
+807,Ciências Agrárias,Nutrição e Alimentação Animal,5.04.03.00-1
+808,Ciências Agrárias,Exigências Nutricionais dos Animais,5.04.03.01-0
+809,Ciências Agrárias,Avaliação de Alimentos para Animais,5.04.03.02-8
+810,Ciências Agrárias,Conservação de Alimentos para Animais,5.04.03.03-6
+811,Ciências Agrárias,Pastagem e Forragicultura,5.04.04.00-8
+812,Ciências Agrárias,"Avaliação, Produção e Conservação de Forragens",5.04.04.01-6
+813,Ciências Agrárias,Manejo e Conservação de Pastagens,5.04.04.02-4
+814,Ciências Agrárias,Fisiologia de Plantas Forrageiras,5.04.04.03-2
+815,Ciências Agrárias,Melhoramento de Plantas Forrageiras e Produção de Sementes,5.04.04.04-0
+816,Ciências Agrárias,Toxicologia e Plantas Tóxicas,5.04.04.05-9
+817,Ciências Agrárias,Produção Animal,5.04.05.00-4
+818,Ciências Agrárias,Criação de Animais,5.04.05.01-2
+819,Ciências Agrárias,Manejo de Animais,5.04.05.02-0
+820,Ciências Agrárias,Instalações para Produção Animal,5.04.05.03-9
+821,Ciências Agrárias,Medicina Veterinária,5.05.00.00-7
+822,Ciências Agrárias,Clínica e Cirurgia Animal,5.05.01.00-3
+823,Ciências Agrárias,Anestesiologia Animal,5.05.01.01-1
+824,Ciências Agrárias,Técnica Cirúrgica Animal,5.05.01.02-0
+825,Ciências Agrárias,Radiologia de Animais,5.05.01.03-8
+826,Ciências Agrárias,Farmacologia e Terapêutica Animal,5.05.01.04-6
+827,Ciências Agrárias,Obstetrícia Animal,5.05.01.05-4
+828,Ciências Agrárias,Clínica Veterinária,5.05.01.06-2
+829,Ciências Agrárias,Clínica Cirúrgica Animal,5.05.01.07-0
+830,Ciências Agrárias,Toxicologia Animal,5.05.01.08-9
+831,Ciências Agrárias,Medicina Veterinária Preventiva,5.05.02.00-0
+832,Ciências Agrárias,Epidemiologia Animal,5.05.02.01-8
+833,Ciências Agrárias,Saneamento Aplicado à Saúde do Homem,5.05.02.02-6
+834,Ciências Agrárias,Doenças Infecciosas de Animais,5.05.02.03-4
+835,Ciências Agrárias,Doenças Parasitárias de Animais,5.05.02.04-2
+836,Ciências Agrárias,Saúde Animal (Programas Sanitários),5.05.02.05-0
+837,Ciências Agrárias,Patologia Animal,5.05.03.00-6
+838,Ciências Agrárias,Patologia Aviária,5.05.03.01-4
+839,Ciências Agrárias,Anatomia Patologia Animal,5.05.03.02-2
+840,Ciências Agrárias,Patologia Clínica Animal,5.05.03.03-0
+841,Ciências Agrárias,Reprodução Animal,5.05.04.00-2
+842,Ciências Agrárias,Ginecologia e Andrologia Animal,5.05.04.01-0
+843,Ciências Agrárias,Inseminação Artificial Animal,5.05.04.02-9
+844,Ciências Agrárias,Fisiopatologia da Reprodução Animal,5.05.04.03-7
+845,Ciências Agrárias,Inspeção de Produtos de Origem Animal,5.05.05.00-9
+846,Ciências Agrárias,Recursos Pesqueiros e Engenharia de Pesca,5.06.00.00-1
+847,Ciências Agrárias,Recursos Pesqueiros Marinhos,5.06.01.00-8
+848,Ciências Agrárias,Fatores Abióticos do Mar,5.06.01.01-6
+849,Ciências Agrárias,Avaliação de Estoques Pesqueiros Marinhos,5.06.01.02-4
+850,Ciências Agrárias,Exploração Pesqueira Marinha,5.06.01.03-2
+851,Ciências Agrárias,Manejo e Conservação de Recursos Pesqueiros Marinhos,5.06.01.04-0
+852,Ciências Agrárias,Recursos Pesqueiros de Águas Interiores,5.06.02.00-4
+853,Ciências Agrárias,Fatores Abióticos de Águas Interiores,5.06.02.01-2
+854,Ciências Agrárias,Avaliação de Estoques Pesqueiros de Águas Interiores,5.06.02.02-0
+855,Ciências Agrárias,Explotação Pesqueira de Águas Interiores,5.06.02.03-9
+856,Ciências Agrárias,Manejo e Conservação de Recursos Pesqueiros de Águas Interiores,5.06.02.04-7
+857,Ciências Agrárias,Aqüicultura,5.06.03.00-0
+858,Ciências Agrárias,Maricultura,5.06.03.01-9
+859,Ciências Agrárias,Carcinocultura,5.06.03.02-7
+860,Ciências Agrárias,Ostreicultura,5.06.03.03-5
+861,Ciências Agrárias,Piscicultura,5.06.03.04-3
+862,Ciências Agrárias,Engenharia de Pesca,5.06.04.00-7
+863,Ciências Agrárias,Ciência e Tecnologia de Alimentos,5.07.00.00-6
+864,Ciências Agrárias,Ciência de Alimentos,5.07.01.00-2
+865,Ciências Agrárias,Valor Nutritivo de Alimentos,5.07.01.01-0
+866,Ciências Agrárias,"Química, Física, Físico-Química e Bioquímica dos Alim. e das Mat.-Primas Alimentares",5.07.01.02-9
+867,Ciências Agrárias,Microbiologia de Alimentos,5.07.01.03-7
+868,Ciências Agrárias,Fisiologia Pós-Colheita,5.07.01.04-5
+869,Ciências Agrárias,Toxicidade e Resíduos de Pesticidas em Alimentos,5.07.01.05-3
+870,Ciências Agrárias,Avaliação e Controle de Qualidade de Alimentos,5.07.01.06-1
+871,Ciências Agrárias,"Padrões, Legislação e Fiscalização de Alimentos",5.07.01.07-0
+872,Ciências Agrárias,Tecnologia de Alimentos,5.07.02.00-9
+873,Ciências Agrárias,Tecnologia  de  Produtos  de  Origem  Animal,5.07.02.01-7
+874,Ciências Agrárias,Tecnologia  de  Produtos  de  Origem  Vegetal,5.07.02.02-5
+875,Ciências Agrárias,Tecnologia das Bebidas,5.07.02.03-3
+876,Ciências Agrárias,Tecnologia de Alimentos Dietéticos e Nutricionais,5.07.02.04-1
+877,Ciências Agrárias,Aproveitamento de Subprodutos,5.07.02.05-0
+878,Ciências Agrárias,Embalagens de Produtos Alimentares,5.07.02.06-8
+879,Ciências Agrárias,Engenharia de Alimentos,5.07.03.00-5
+880,Ciências Agrárias,Instalações Industriais de Produção de Alimentos,5.07.03.01-3
+881,Ciências Agrárias,Armazenamento de Alimentos,5.07.03.02-1
+882,Ciências Sociais Aplicadas,Ciências Sociais Aplicadas,6.00.00.00-7
+883,Ciências Sociais Aplicadas,Direito,6.01.00.00-1
+884,Ciências Sociais Aplicadas,Teoria do Direito,6.01.01.00-8
+885,Ciências Sociais Aplicadas,Teoria Geral do Direito,6.01.01.01-6
+886,Ciências Sociais Aplicadas,Teoria Geral do Processo,6.01.01.02-4
+887,Ciências Sociais Aplicadas,Teoria do Estado,6.01.01.03-2
+888,Ciências Sociais Aplicadas,História do Direito,6.01.01.04-0
+889,Ciências Sociais Aplicadas,Filosofia do Direito,6.01.01.05-9
+890,Ciências Sociais Aplicadas,Lógica Jurídica,6.01.01.06-7
+891,Ciências Sociais Aplicadas,Sociologia Jurídica,6.01.01.07-5
+892,Ciências Sociais Aplicadas,Antropologia Jurídica,6.01.01.08-3
+893,Ciências Sociais Aplicadas,Direito Público,6.01.02.00-4
+894,Ciências Sociais Aplicadas,Direito Tributário,6.01.02.01-2
+895,Ciências Sociais Aplicadas,Direito Penal,6.01.02.02-0
+896,Ciências Sociais Aplicadas,Direito Processual Penal,6.01.02.03-9
+897,Ciências Sociais Aplicadas,Direito Processual Civil,6.01.02.04-7
+898,Ciências Sociais Aplicadas,Direito Constitucional,6.01.02.05-5
+899,Ciências Sociais Aplicadas,Direito Administrativo,6.01.02.06-3
+900,Ciências Sociais Aplicadas,Direito Internacional Público,6.01.02.07-1
+901,Ciências Sociais Aplicadas,Direito Privado,6.01.03.00-0
+902,Ciências Sociais Aplicadas,Direito Civil,6.01.03.01-9
+903,Ciências Sociais Aplicadas,Direito Comercial,6.01.03.02-7
+904,Ciências Sociais Aplicadas,Direito do Trabalho,6.01.03.03-5
+905,Ciências Sociais Aplicadas,Direito Internacional Privado,6.01.03.04-3
+906,Ciências Sociais Aplicadas,Direitos Especiais,6.01.04.00-7
+907,Ciências Sociais Aplicadas,Administração,6.02.00.00-6
+908,Ciências Sociais Aplicadas,Administração de Empresas,6.02.01.00-2
+909,Ciências Sociais Aplicadas,Administração da Produção,6.02.01.01-0
+910,Ciências Sociais Aplicadas,Administração Financeira,6.02.01.02-9
+911,Ciências Sociais Aplicadas,Mercadologia,6.02.01.03-7
+912,Ciências Sociais Aplicadas,Negócios Internacionais,6.02.01.04-5
+913,Ciências Sociais Aplicadas,Administração de Recursos Humanos,6.02.01.05-3
+914,Ciências Sociais Aplicadas,Administração Pública,6.02.02.00-9
+915,Ciências Sociais Aplicadas,Contabilidade e Financas Públicas,6.02.02.01-7
+916,Ciências Sociais Aplicadas,Organizações Públicas,6.02.02.02-5
+917,Ciências Sociais Aplicadas,Política e Planejamento Governamentais,6.02.02.03-3
+918,Ciências Sociais Aplicadas,Administração de Pessoal,6.02.02.04-1
+919,Ciências Sociais Aplicadas,Administração de Setores Específicos,6.02.03.00-5
+920,Ciências Sociais Aplicadas,Ciências Contábeis,6.02.04.00-1
+921,Ciências Sociais Aplicadas,Economia,6.03.00.00-0
+922,Ciências Sociais Aplicadas,Teoria Econômica,6.03.01.00-7
+923,Ciências Sociais Aplicadas,Economia Geral,6.03.01.01-5
+924,Ciências Sociais Aplicadas,Teoria Geral da Economia,6.03.01.02-3
+925,Ciências Sociais Aplicadas,História do Pensamento Econômico ,6.03.01.03-1
+926,Ciências Sociais Aplicadas,Sistemas Econômicos,6.03.01.05-8
+927,Ciências Sociais Aplicadas,Métodos Quantitativos em Economia,6.03.02.00-3
+928,Ciências Sociais Aplicadas,"Métodos e Modelos Matemáticos, Econométricos e Estatísticos",6.03.02.01-1
+929,Ciências Sociais Aplicadas,Estatística Sócio-Econômica,6.03.02.02-0
+930,Ciências Sociais Aplicadas,Contabilidade Nacional,6.03.02.03-8
+931,Ciências Sociais Aplicadas,Economia Matemática,6.03.02.04-6
+932,Ciências Sociais Aplicadas,Economia Monetária e Fiscal,6.03.03.00-0
+933,Ciências Sociais Aplicadas,Teoria Monetária e Financeira,6.03.03.01-8
+934,Ciências Sociais Aplicadas,Instituições Monetárias e Financeiras do Brasil,6.03.03.02-6
+935,Ciências Sociais Aplicadas,Financas Públicas Internas,6.03.03.03-4
+936,Ciências Sociais Aplicadas,Política Fiscal do Brasil,6.03.03.04-2
+937,Ciências Sociais Aplicadas,"Crescimento, Flutuações e Planejamento Econômico",6.03.04.00-6
+938,Ciências Sociais Aplicadas,Crescimento e Desenvolvimento Econômico,6.03.04.01-4
+939,Ciências Sociais Aplicadas,Teoria e Política de Planejamento Econômico,6.03.04.02-2
+940,Ciências Sociais Aplicadas,Flutuações Cíclicas e Projeções Econômicas,6.03.04.03-0
+941,Ciências Sociais Aplicadas,Inflação,6.03.04.04-9
+942,Ciências Sociais Aplicadas,Economia Internacional,6.03.05.00-2
+943,Ciências Sociais Aplicadas,Teoria do Comércio Internacional,6.03.05.01-0
+944,Ciências Sociais Aplicadas,Relações do Comércio; Política Comercial; Integração Econômica,6.03.05.02-9
+945,Ciências Sociais Aplicadas,Balanço de Pagamentos; Financas Internacionais,6.03.05.03-7
+946,Ciências Sociais Aplicadas,Investimentos Internacionais e Ajuda Externa,6.03.05.04-5
+947,Ciências Sociais Aplicadas,Economia dos Recursos Humanos,6.03.06.00-9
+948,Ciências Sociais Aplicadas,Treinamento e Alocação de Mão-de-Obra; Oferta de Mão-de-Obra e Força de Trabalho,6.03.06.01-7
+949,Ciências Sociais Aplicadas,Mercado de Trabalho; Política do Governo,6.03.06.02-5
+950,Ciências Sociais Aplicadas,"Sindicatos, Dissídios Coletivos, Relações de Emprego (Empregador/Empregado)",6.03.06.03-3
+951,Ciências Sociais Aplicadas,Capital Humano,6.03.06.04-1
+952,Ciências Sociais Aplicadas,Demografia Econômica,6.03.06.05-0
+953,Ciências Sociais Aplicadas,Economia Industrial,6.03.07.00-5
+954,Ciências Sociais Aplicadas,Organização Industrial e Estudos Industriais,6.03.07.01-3
+955,Ciências Sociais Aplicadas,Mudança Tecnologica,6.03.07.02-1
+956,Ciências Sociais Aplicadas,Economia do Bem-Estar Social,6.03.08.00-1
+957,Ciências Sociais Aplicadas,Economia dos Programas de Bem-Estar Social,6.03.08.01-0
+958,Ciências Sociais Aplicadas,Economia do Consumidor,6.03.08.02-8
+959,Ciências Sociais Aplicadas,Economia Regional e Urbana,6.03.09.00-8
+960,Ciências Sociais Aplicadas,Economia Regional,6.03.09.01-6
+961,Ciências Sociais Aplicadas,Economia Urbana,6.03.09.02-4
+962,Ciências Sociais Aplicadas,Renda e Tributação,6.03.09.03-2
+963,Ciências Sociais Aplicadas,Economias Agrária e dos Recursos Naturais,6.03.10.00-6
+964,Ciências Sociais Aplicadas,Economia Agrária,6.03.10.01-4
+965,Ciências Sociais Aplicadas,Economia dos Recursos Naturais,6.03.10.02-2
+966,Ciências Sociais Aplicadas,Arquitetura e Urbanismo,6.04.00.00-5
+967,Ciências Sociais Aplicadas,Fundamentos de Arquitetura e Urbanismo,6.04.01.00-1
+968,Ciências Sociais Aplicadas,História da Arquitetura e Urbanismo,6.04.01.01-0
+969,Ciências Sociais Aplicadas,Teoria da Arquitetura,6.04.01.02-8
+970,Ciências Sociais Aplicadas,História do Urbanismo,6.04.01.03-6
+971,Ciências Sociais Aplicadas,Teoria do Urbanismo,6.04.01.04-4
+972,Ciências Sociais Aplicadas,Projeto de Arquitetuta e Urbanismo,6.04.02.00-8
+973,Ciências Sociais Aplicadas,Planejamento e Projetos da Edificação,6.04.02.01-6
+974,Ciências Sociais Aplicadas,Planejamento e Projeto do Espaço Urbano,6.04.02.02-4
+975,Ciências Sociais Aplicadas,Planejamento e Projeto do Equipamento,6.04.02.03-2
+976,Ciências Sociais Aplicadas,Tecnologia de Arquitetura e Urbanismo,6.04.03.00-4
+977,Ciências Sociais Aplicadas,Adequação Ambiental,6.04.03.01-2
+978,Ciências Sociais Aplicadas,Paisagismo,6.04.04.00-0
+979,Ciências Sociais Aplicadas,Desenvolvimento Histórico do Paisagismo,6.04.04.01-9
+980,Ciências Sociais Aplicadas,Conceituação de Paisagismo e Metodologia do Paisagismo,6.04.04.02-7
+981,Ciências Sociais Aplicadas,Estudos de Organização do Espaço Exterior,6.04.04.03-5
+982,Ciências Sociais Aplicadas,Projetos de Espaços Livres Urbanos,6.04.04.04-3
+983,Ciências Sociais Aplicadas,Planejamento Urbano e Regional,6.05.00.00-0
+984,Ciências Sociais Aplicadas,Fundamentos do Planejamento Urbano e Regional,6.05.01.00-6
+985,Ciências Sociais Aplicadas,Teoria do Planejamento Urbano e Regional,6.05.01.01-4
+986,Ciências Sociais Aplicadas,Teoria da Urbanização,6.05.01.02-2
+987,Ciências Sociais Aplicadas,Política Urbana,6.05.01.03-0
+988,Ciências Sociais Aplicadas,História Urbana,6.05.01.04-9
+989,Ciências Sociais Aplicadas,Métodos e Técnicas do Planejamento Urbano e Regional,6.05.02.00-2
+990,Ciências Sociais Aplicadas,"Informação, Cadastro e Mapeamento",6.05.02.01-0
+991,Ciências Sociais Aplicadas,Técnica de Previsão Urbana e Regional,6.05.02.02-9
+992,Ciências Sociais Aplicadas,Técnicas de Análise e Avaliação Urbana e Regional,6.05.02.03-7
+993,Ciências Sociais Aplicadas,Técnicas de Planejamento e Projeto Urbanos e Regionais,6.05.02.04-5
+994,Ciências Sociais Aplicadas,Serviços Urbanos e Regionais,6.05.03.00-9
+995,Ciências Sociais Aplicadas,Administração Municipal e Urbana,6.05.03.01-7
+996,Ciências Sociais Aplicadas,Estudos da Habitação,6.05.03.02-5
+997,Ciências Sociais Aplicadas,Aspectos Sociais do Planejamento Urbano e Regional,6.05.03.03-3
+998,Ciências Sociais Aplicadas,Aspectos Econômicos do Planejamento Urbano e Regional,6.05.03.04-1
+999,Ciências Sociais Aplicadas,Aspectos Físico-Ambientais do Planejamento Urbano e Regional,6.05.03.05-0
+1000,Ciências Sociais Aplicadas,Serviços Comunitários,6.05.03.06-8
+1001,Ciências Sociais Aplicadas,Infra-Estruturas Urbanas e Regionais,6.05.03.07-6
+1002,Ciências Sociais Aplicadas,Transporte e Tráfego Urbano e Regional,6.05.03.08-4
+1003,Ciências Sociais Aplicadas,Legislação Urbana e Regional,6.05.03.09-2
+1004,Ciências Sociais Aplicadas,Demografia,6.06.00.00-4
+1005,Ciências Sociais Aplicadas,Distribuição Espacial,6.06.05.01-4
+1006,Ciências Sociais Aplicadas,Distribuição Espacial Geral,6.06.01.01-9
+1007,Ciências Sociais Aplicadas,Distribuição Espacial Urbana,6.06.01.02-7
+1008,Ciências Sociais Aplicadas,Distribuição Espacial Rural,6.06.01.03-5
+1009,Ciências Sociais Aplicadas,Tendência Populacional,6.06.02.00-7
+1010,Ciências Sociais Aplicadas,Tendências Passadas,6.06.02.01-5
+1011,Ciências Sociais Aplicadas,Taxas e Estimativas Correntes,6.06.02.02-3
+1012,Ciências Sociais Aplicadas,Projeções,6.06.02.03-1
+1013,Ciências Sociais Aplicadas,Componentes da Dinâmica Demográfica,6.06.03.00-3
+1014,Ciências Sociais Aplicadas,Fecundidade,6.06.03.01-1
+1015,Ciências Sociais Aplicadas,Mortalidade,6.06.03.02-0
+1016,Ciências Sociais Aplicadas,Migração,6.06.03.03-8
+1017,Ciências Sociais Aplicadas,Nupcialidade e Família,6.06.05.03-0
+1018,Ciências Sociais Aplicadas,Casamento e Divórcio,6.06.04.01-8
+1019,Ciências Sociais Aplicadas,Família e Reprodução,6.06.04.02-6
+1020,Ciências Sociais Aplicadas,Demografia Histórica,6.06.05.00-6
+1021,Ciências Sociais Aplicadas,"Natalidade, Mortalidade, Migração",6.06.05.02-2
+1022,Ciências Sociais Aplicadas,Métodos e Técnicas de Demografia Histórica,6.06.05.04-9
+1023,Ciências Sociais Aplicadas,Política Pública e População,6.06.06.00-2
+1024,Ciências Sociais Aplicadas,Política Populacional,6.06.06.01-0
+1025,Ciências Sociais Aplicadas,Políticas de Redistribuição de População,6.06.06.02-9
+1026,Ciências Sociais Aplicadas,Políticas de Planejamento Familiar,6.06.06.03-7
+1027,Ciências Sociais Aplicadas,Fontes de Dados Demográficos,6.06.07.00-9
+1028,Ciências Sociais Aplicadas,Ciência da Informação,6.07.00.00-9
+1029,Ciências Sociais Aplicadas,Teoria da Informação,6.07.01.00-5
+1030,Ciências Sociais Aplicadas,Teoria Geral da Informação,6.07.01.01-3
+1031,Ciências Sociais Aplicadas,Processos da Comunicação,6.07.01.02-1
+1032,Ciências Sociais Aplicadas,Representação da Informação,6.07.01.03-0
+1033,Ciências Sociais Aplicadas,Biblioteconomia,6.07.02.00-1
+1034,Ciências Sociais Aplicadas,Teoria da Classificação,6.07.02.01-0
+1035,Ciências Sociais Aplicadas,Métodos Quantitativos. Bibliometria,6.07.02.02-8
+1036,Ciências Sociais Aplicadas,Técnicas de Recuperação de Informação,6.07.02.03-6
+1037,Ciências Sociais Aplicadas,Processos de Disseminação da Informação,6.07.02.04-4
+1038,Ciências Sociais Aplicadas,Arquivologia,6.07.03.00-8
+1039,Ciências Sociais Aplicadas,Organização de Arquivos,6.07.03.01-6
+1040,Ciências Sociais Aplicadas,Museologia,6.08.00.00-3
+1041,Ciências Sociais Aplicadas,Comunicação,6.09.00.00-8
+1042,Ciências Sociais Aplicadas,Teoria da Comunicação,6.09.01.00-4
+1043,Ciências Sociais Aplicadas,Jornalismo e Editoração,6.09.02.00-0
+1044,Ciências Sociais Aplicadas,Teoria e Ética do Jornalismo,6.09.02.01-9
+1045,Ciências Sociais Aplicadas,Organização Editorial de Jornais,6.09.02.02-7
+1046,Ciências Sociais Aplicadas,Organização Comercial de Jornais,6.09.02.03-5
+1047,Ciências Sociais Aplicadas,"Jornalismo Especializado (Comunitário, Rural, Empresarial, Científico)",6.09.02.04-3
+1048,Ciências Sociais Aplicadas,Rádio e Televisão,6.09.03.00-7
+1049,Ciências Sociais Aplicadas,Radiodifusão,6.09.03.01-5
+1050,Ciências Sociais Aplicadas,Videodifusão,6.09.03.02-3
+1051,Ciências Sociais Aplicadas,Relações Públicas e Propaganda,6.09.04.00-3
+1052,Ciências Sociais Aplicadas,Comunicação Visual,6.09.05.00-0
+1053,Ciências Sociais Aplicadas,Serviço Social,6.10.00.00-0
+1054,Ciências Sociais Aplicadas,Fundamentos do Serviço Social,6.10.01.00-7
+1055,Ciências Sociais Aplicadas,Serviço Social Aplicado,6.10.02.00-3
+1056,Ciências Sociais Aplicadas,Serviço Social do Trabalho,6.10.02.01-1
+1057,Ciências Sociais Aplicadas,Serviço Social da Educação,6.10.02.02-0
+1058,Ciências Sociais Aplicadas,Serviço Social do Menor,6.10.02.03-8
+1059,Ciências Sociais Aplicadas,Serviço Social da Saúde,6.10.02.04-6
+1060,Ciências Sociais Aplicadas,Serviço Social da Habitação,6.10.02.05-4
+1061,Ciências Sociais Aplicadas,Economia Doméstica,6.11.00.00-5
+1062,Ciências Sociais Aplicadas,Desenho Industrial,6.12.00.00-0
+1063,Ciências Sociais Aplicadas,Programação Visual,6.12.01.00-6
+1064,Ciências Sociais Aplicadas,Desenho de Produto,6.12.02.00-2
+1065,Ciências Sociais Aplicadas,Turismo,6.13.00.00-4
+1066,Ciências Humanas,Ciências Humanas,7.00.00.00-0
+1067,Ciências Humanas,Filosofia,7.01.00.00-4
+1068,Ciências Humanas,História da Filosofia,7.01.01.00-0
+1069,Ciências Humanas,Metafísica,7.01.02.00-7
+1070,Ciências Humanas,Lógica,7.01.03.00-3
+1071,Ciências Humanas,Ética,7.01.04.00-0
+1072,Ciências Humanas,Epistemologia,7.01.05.00-6
+1073,Ciências Humanas,Filosofia Brasileira,7.01.06.00-2
+1074,Ciências Humanas,Sociologia,7.02.00.00-9
+1075,Ciências Humanas,Fundamentos da Sociologia,7.02.01.00-5
+1076,Ciências Humanas,Teoria Sociológica,7.02.01.01-3
+1077,Ciências Humanas,História da Sociologia,7.02.01.02-1
+1078,Ciências Humanas,Sociologia do Conhecimento,7.02.02.00-1
+1079,Ciências Humanas,Sociologia do Desenvolvimento,7.02.03.00-8
+1080,Ciências Humanas,Sociologia Urbana,7.02.04.00-4
+1081,Ciências Humanas,Sociologia Rural,7.02.05.00-0
+1082,Ciências Humanas,Sociologia da Saúde,7.02.06.00-7
+1083,Ciências Humanas,Outras Sociologias Específicas,7.02.07.00-3
+1084,Ciências Humanas,Antropologia,7.03.00.00-3
+1085,Ciências Humanas,Teoria Antropológica,7.03.01.00-0
+1086,Ciências Humanas,Etnologia Indígena,7.03.02.00-6
+1087,Ciências Humanas,Antropologia Urbana,7.03.03.00-2
+1088,Ciências Humanas,Antropologia Rural,7.03.04.00-9
+1089,Ciências Humanas,Antropologia das Populações Afro-Brasileiras,7.03.05.00-5
+1090,Ciências Humanas,Arqueologia,7.04.00.00-8
+1091,Ciências Humanas,Teoria e Método em Arqueologia,7.04.01.00-4
+1092,Ciências Humanas,Arqueologia Pré-Histórica,7.04.02.00-0
+1093,Ciências Humanas,Arqueologia Histórica,7.04.03.00-7
+1094,Ciências Humanas,História,7.05.00.00-2
+1095,Ciências Humanas,Teoria e Filosofia da História,7.05.01.00-9
+1096,Ciências Humanas,História Antiga e Medieval,7.05.02.00-5
+1097,Ciências Humanas,História Moderna e Contemporânea,7.05.03.00-1
+1098,Ciências Humanas,História da América,7.05.04.00-8
+1099,Ciências Humanas,História dos Estados Unidos,7.05.04.01-6
+1100,Ciências Humanas,História Latino-Americana,7.05.04.02-4
+1101,Ciências Humanas,História do Brasil,7.05.05.00-4
+1102,Ciências Humanas,História do Brasil Colônia,7.05.05.01-2
+1103,Ciências Humanas,História do Brasil Império,7.05.05.02-0
+1104,Ciências Humanas,História do Brasil República,7.05.05.03-9
+1105,Ciências Humanas,História Regional do Brasil,7.05.05.04-7
+1106,Ciências Humanas,História das Ciências,7.05.06.00-0
+1107,Ciências Humanas,Geografia,7.06.00.00-7
+1108,Ciências Humanas,Geografia Humana,7.06.01.00-3
+1109,Ciências Humanas,Geografia da População,7.06.01.01-1
+1110,Ciências Humanas,Geografia Agrária,7.06.01.02-0
+1111,Ciências Humanas,Geografia Urbana,7.06.01.03-8
+1112,Ciências Humanas,Geografia Econômica,7.06.01.04-6
+1113,Ciências Humanas,Geografia Política,7.06.01.05-4
+1114,Ciências Humanas,Geografia Regional,7.06.02.00-0
+1115,Ciências Humanas,Teoria do Desenvolvimento Regional,7.06.02.01-8
+1116,Ciências Humanas,Regionalização,7.06.02.02-6
+1117,Ciências Humanas,Análise Regional,7.06.02.03-4
+1118,Ciências Humanas,Psicologia,7.07.00.00-1
+1119,Ciências Humanas,Fundamentos e Medidas da Psicologia,7.07.01.00-8
+1120,Ciências Humanas,"História, Teorias e Sistemas em Psicologia",7.07.01.01-6
+1121,Ciências Humanas,"Metodologia, Instrumentação e Equipamento em Psicologia",7.07.01.02-4
+1122,Ciências Humanas,"Construção e Validade de Testes, Escalas e Outras Medidas Psicológicas",7.07.01.03-2
+1123,Ciências Humanas,"Técnicas de Processamento Estatístico, Matemático e Computacional em Psicologia",7.07.01.04-0
+1124,Ciências Humanas,Psicologia Experimental,7.07.02.00-4
+1125,Ciências Humanas,Processos Perceptuais e Motores,7.07.02.01-2
+1126,Ciências Humanas,"Processos de Aprendizagem, Memória e Motivação",7.07.02.02-0
+1127,Ciências Humanas,Processos Cognitivos e Atencionais,7.07.02.03-9
+1128,Ciências Humanas,Estados Subjetivos e Emoção,7.07.02.04-7
+1129,Ciências Humanas,Psicologia Fisiológica,7.07.03.00-0
+1130,Ciências Humanas,"Neurologia, Eletrofisiologia e Comportamento",7.07.03.01-9
+1131,Ciências Humanas,Processos Psico-Fisiológicos,7.07.03.02-7
+1132,Ciências Humanas,Estimulação Elétrica e com Drogas; Comportamento,7.07.03.03-5
+1133,Ciências Humanas,Psicobiologia,7.07.03.04-3
+1134,Ciências Humanas,Psicologia Comparativa,7.07.04.00-7
+1135,Ciências Humanas,Estudos Naturalísticos do Comportamento Animal,7.07.04.01-5
+1136,Ciências Humanas,Mecanismos Instintivos e Processos Sociais em Animais,7.07.04.02-3
+1137,Ciências Humanas,Psicologia Social,7.07.05.00-3
+1138,Ciências Humanas,Relações Interpessoais,7.07.05.01-1
+1139,Ciências Humanas,Processos Grupais e de Comunicação,7.07.05.02-0
+1140,Ciências Humanas,Papéis e Estruturas Sociais; Indivíduo,7.07.05.03-8
+1141,Ciências Humanas,Psicologia Cognitiva,7.07.06.00-0
+1142,Ciências Humanas,Psicologia do Desenvolvimento Humano,7.07.07.00-6
+1143,Ciências Humanas,Processos Perceptuais e Cognitivos; Desenvolvimento,7.07.07.01-4
+1144,Ciências Humanas,Desenvolvimento Social e da Personalidade,7.07.07.02-2
+1145,Ciências Humanas,Psicologia do Ensino e da Aprendizagem,7.07.08.00-2
+1146,Ciências Humanas,Planejamento Institucional,7.07.08.01-0
+1147,Ciências Humanas,Programação de Condições de Ensino,7.07.08.02-9
+1148,Ciências Humanas,Treinamento de Pessoal,7.07.08.03-7
+1149,Ciências Humanas,Aprendizagem e Desempenho Acadêmicos,7.07.08.04-5
+1150,Ciências Humanas,Ensino e Aprendizagem na Sala de Aula,7.07.08.05-3
+1151,Ciências Humanas,Psicologia do Trabalho e Organizacional,7.07.09.00-9
+1152,Ciências Humanas,Análise Institucional,7.09.04.02-2
+1153,Ciências Humanas,Recrutamento e Seleção de Pessoal,7.07.09.02-5
+1154,Ciências Humanas,Treinamento e Avaliação,7.07.09.03-3
+1155,Ciências Humanas,Fatores Humanos no Trabalho,7.07.09.04-1
+1156,Ciências Humanas,Planejamento Ambiental e Comportamento Humano,7.07.09.05-0
+1157,Ciências Humanas,Tratamento e Prevenção Psicológica,7.07.10.00-7
+1158,Ciências Humanas,Intervenção Terapêutica,7.07.10.01-5
+1159,Ciências Humanas,Programas de Atendimento Comunitário,7.07.10.02-3
+1160,Ciências Humanas,Treinamento e Reabilitação,7.07.10.03-1
+1161,Ciências Humanas,Desvios da Conduta,7.07.10.04-0
+1162,Ciências Humanas,Distúrbios da Linguagem,7.07.10.05-8
+1163,Ciências Humanas,Distúrbios Psicossomáticos,7.07.10.06-6
+1164,Ciências Humanas,Educação,7.08.00.00-6
+1165,Ciências Humanas,Fundamentos da Educação,7.08.01.00-2
+1166,Ciências Humanas,Filosofia da Educação,7.08.01.01-0
+1167,Ciências Humanas,História da Educação,7.08.01.02-9
+1168,Ciências Humanas,Sociologia da Educação,7.08.01.03-7
+1169,Ciências Humanas,Antropologia Educacional,7.08.01.04-5
+1170,Ciências Humanas,Economia da Educação,7.08.01.05-3
+1171,Ciências Humanas,Psicologia Educacional,7.08.01.06-1
+1172,Ciências Humanas,Administração Educacional,7.08.02.00-9
+1173,Ciências Humanas,Administração de Sistemas Educacionais,7.08.02.01-7
+1174,Ciências Humanas,Administração de Unidades Educativas,7.08.02.02-5
+1175,Ciências Humanas,Planejamento e Avaliação Educacional,7.08.03.00-5
+1176,Ciências Humanas,Política Educacional,7.08.03.01-3
+1177,Ciências Humanas,Planejamento Educacional,7.08.03.02-1
+1178,Ciências Humanas,"Avaliação de Sistemas, Instituições, Planos e Programas Educacionais",7.08.03.03-0
+1179,Ciências Humanas,Ensino-Aprendizagem,7.08.04.00-1
+1180,Ciências Humanas,Teorias da Instrução,7.08.04.01-0
+1181,Ciências Humanas,Métodos e Técnicas de Ensino,7.08.04.02-8
+1182,Ciências Humanas,Tecnologia Educacional,7.08.04.03-6
+1183,Ciências Humanas,Avaliação da Aprendizagem,7.08.04.04-4
+1184,Ciências Humanas,Currículo,7.08.05.00-8
+1185,Ciências Humanas,Teoria Geral de Planejamento e Desenvolvimento Curricular,7.08.05.01-6
+1186,Ciências Humanas,Currículos Específicos para Níveis e Tipos de Educação,7.08.05.02-4
+1187,Ciências Humanas,Orientação e Aconselhamento,7.08.06.00-4
+1188,Ciências Humanas,Orientação Educacional,7.08.06.01-2
+1189,Ciências Humanas,Orientação Vocacional,7.08.06.02-0
+1190,Ciências Humanas,Tópicos Específicos de Educação,7.08.07.00-0
+1191,Ciências Humanas,Educação de Adultos,7.08.07.01-9
+1192,Ciências Humanas,Educação Permanente,7.08.07.02-7
+1193,Ciências Humanas,Educação Rural,7.08.07.03-5
+1194,Ciências Humanas,Educação em Periferias Urbanas,7.08.07.04-3
+1195,Ciências Humanas,Educação Especial,7.08.07.05-1
+1196,Ciências Humanas,Educação Pré-Escolar,7.08.07.06-0
+1197,Ciências Humanas,Ensino Profissionalizante,7.08.07.07-8
+1198,Ciências Humanas,Ciência Política,7.09.00.00-0
+1199,Ciências Humanas,Teoria Política,7.09.01.00-7
+1200,Ciências Humanas,Teoria Política Clássica,7.09.01.01-5
+1201,Ciências Humanas,Teoria Política Medieval,7.09.01.02-3
+1202,Ciências Humanas,Teoria Política Moderna,7.09.01.03-1
+1203,Ciências Humanas,Teoria Política Contemporânea,7.09.01.04-0
+1204,Ciências Humanas,Estado e Governo,7.09.02.00-3
+1205,Ciências Humanas,Estrutura e Transformação do Estado,7.09.02.01-1
+1206,Ciências Humanas,Sistemas Governamentais Comparados,7.09.02.02-0
+1207,Ciências Humanas,Relações Intergovernamentais,7.09.02.03-8
+1208,Ciências Humanas,Estudos do Poder Local,7.09.02.04-6
+1209,Ciências Humanas,Instituições Governamentais Específicas,7.09.02.05-4
+1210,Ciências Humanas,Comportamento Político,7.09.03.00-0
+1211,Ciências Humanas,Estudos Eleitorais e Partidos Políticos,7.09.03.01-8
+1212,Ciências Humanas,Atitude e Ideologias Políticas,7.09.03.02-6
+1213,Ciências Humanas,Conflitos e Coalizões Políticas,7.09.03.03-4
+1214,Ciências Humanas,Comportamento Legislativo,7.09.03.04-2
+1215,Ciências Humanas,Classes Sociais e Grupos de Interesse,7.09.03.05-0
+1216,Ciências Humanas,Políticas Públicas,7.09.04.00-6
+1217,Ciências Humanas,Análise do Processo Decisório,7.09.04.01-4
+1218,Ciências Humanas,Técnicas de Antecipação,7.09.04.03-0
+1219,Ciências Humanas,Política Internacional,7.09.05.00-2
+1220,Ciências Humanas,Política Externa do Brasil,7.09.05.01-0
+1221,Ciências Humanas,Organizações Internacionais,7.09.05.02-9
+1222,Ciências Humanas,"Integração Internacional, Conflito, Guerra e Paz",7.09.05.03-7
+1223,Ciências Humanas,"Relações Internacionais, Bilaterais e Multilaterais",7.09.05.04-5
+1224,Ciências Humanas,Teologia,7.10.00.00-3
+1225,Ciências Humanas,História da Teologia,7.10.01.00-0
+1226,Ciências Humanas,Teologia Moral,7.10.02.00-6
+1227,Ciências Humanas,Teologia Sistemática,7.10.03.00-2
+1228,Ciências Humanas,Teologia Pastoral,7.10.04.00-9
+1229,"Lingüística, Letras e Artes","Lingüística, Letras e Artes",8.00.00.00-2
+1230,"Lingüística, Letras e Artes",Lingüística,8.01.00.00-7
+1231,"Lingüística, Letras e Artes",Teoria e Análise Lingüística,8.01.01.00-3
+1232,"Lingüística, Letras e Artes",Fisiologia da Linguagem,8.01.02.00-0
+1233,"Lingüística, Letras e Artes",Lingüística Histórica,8.01.03.00-6
+1234,"Lingüística, Letras e Artes",Sociolingüística e Dialetologia,8.01.04.00-2
+1235,"Lingüística, Letras e Artes",Psicolingüística,8.01.05.00-9
+1236,"Lingüística, Letras e Artes",Lingüística Aplicada,8.01.06.00-5
+1237,"Lingüística, Letras e Artes",Letras,8.02.00.00-1
+1238,"Lingüística, Letras e Artes",Língua Portuguesa,8.02.01.00-8
+1239,"Lingüística, Letras e Artes",Línguas Estrangeiras Modernas,8.02.02.00-4
+1240,"Lingüística, Letras e Artes",Línguas Clássicas,8.02.03.00-0
+1241,"Lingüística, Letras e Artes",Línguas Indígenas,8.02.04.00-7
+1242,"Lingüística, Letras e Artes",Teoria Literária,8.02.05.00-3
+1243,"Lingüística, Letras e Artes",Literatura Brasileira,8.02.06.00-0
+1244,"Lingüística, Letras e Artes",Outras Literaturas Vernáculas,8.02.07.00-6
+1245,"Lingüística, Letras e Artes",Literaturas Estrangeiras Modernas,8.02.08.00-2
+1246,"Lingüística, Letras e Artes",Literaturas Clássicas,8.02.09.00-9
+1247,"Lingüística, Letras e Artes",Literatura Comparada,8.02.10.00-7
+1248,"Lingüística, Letras e Artes",Artes,8.03.00.00-6
+1249,"Lingüística, Letras e Artes",Fundamentos e Crítica das Artes,8.03.01.00-2
+1250,"Lingüística, Letras e Artes",Teoria da Arte,8.03.01.01-0
+1251,"Lingüística, Letras e Artes",História da Arte,8.03.01.02-9
+1252,"Lingüística, Letras e Artes",Crítica da Arte,8.03.01.03-7
+1253,"Lingüística, Letras e Artes",Artes Plásticas,8.03.02.00-9
+1254,"Lingüística, Letras e Artes",Pintura,8.03.02.01-7
+1255,"Lingüística, Letras e Artes",Desenho,8.03.02.02-5
+1256,"Lingüística, Letras e Artes",Gravura,8.03.02.03-3
+1257,"Lingüística, Letras e Artes",Escultura,8.03.02.04-1
+1258,"Lingüística, Letras e Artes",Tecelagem,8.03.02.06-8
+1259,"Lingüística, Letras e Artes",Música,8.03.03.00-5
+1260,"Lingüística, Letras e Artes",Regência,8.03.03.01-3
+1261,"Lingüística, Letras e Artes",Instrumentação Musical,8.03.03.02-1
+1262,"Lingüística, Letras e Artes",Composição Musical,8.03.03.03-0
+1263,"Lingüística, Letras e Artes",Canto,8.03.03.04-8
+1264,"Lingüística, Letras e Artes",Dança,8.03.04.00-1
+1265,"Lingüística, Letras e Artes",Execução da Dança,8.03.04.01-0
+1266,"Lingüística, Letras e Artes",Coreografia,8.03.04.02-8
+1267,"Lingüística, Letras e Artes",Teatro,8.03.05.00-8
+1268,"Lingüística, Letras e Artes",Dramaturgia,8.03.05.01-6
+1269,"Lingüística, Letras e Artes",Direção Teatral,8.03.05.02-4
+1270,"Lingüística, Letras e Artes",Cenografia,8.03.05.03-2
+1271,"Lingüística, Letras e Artes",Interpretação Teatral,8.03.05.04-0
+1272,"Lingüística, Letras e Artes",Ópera,8.03.06.00-4
+1273,"Lingüística, Letras e Artes",Fotografia,8.03.07.00-0
+1274,"Lingüística, Letras e Artes",Cinema,8.03.08.00-7
+1275,"Lingüística, Letras e Artes",Administração e Produção de Filmes,8.03.08.01-5
+1276,"Lingüística, Letras e Artes",Roteiro e Direção Cinematográficos,8.03.08.02-3
+1277,"Lingüística, Letras e Artes",Técnicas de Registro e Processamento de Filmes,8.03.08.03-1
+1278,"Lingüística, Letras e Artes",Interpretação Cinematográfica,8.03.08.04-0
+1279,"Lingüística, Letras e Artes",Artes do Vídeo,8.03.09.00-3
+1280,"Lingüística, Letras e Artes",Educação Artística,8.03.10.00-1
