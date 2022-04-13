@@ -1,0 +1,16 @@
+## ticket-2021-10-04-10000504
+
+- Banco de dados global de docentes (ago/2021) útil para DS/ML. 
+
+## ticket-2021-10-08-10000042
+
+- Banco de dados global de discentes (ago/2021) útil para DS/ML.
+
+## ticket-2022-03-24-10000211
+
+- Arquivos referentes à consulta em 24/03/2022
+
+- Ainda são de difícil tratamento em virtude de inconsistências de nomenclatura.
+
+- Total de docentes envolvidos com pesquisa: segmentado por PPG, M e F.
+A relação de docentes está no arquivo total_docentes_pesquisa_por_PPG.csv. O mesmo docente pode estar presente em mais de um PPG simultaneamente, por isso, o total de docentes presente neste relatório é superior ao enviado anteriormente. O mesmo docente pode estar em mais de um programa.
